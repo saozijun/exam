@@ -1,0 +1,51 @@
+{
+	"判断":[{
+		"title": "行列式转置后，行列式值符号改变.",
+		"result": 0
+	},{
+		"title": "若AB=BA，则(AB)ˉ= AˉBˉ",
+		"result": 1
+	},{
+		"title": "若n阶（n≥2）矩阵A的秩为n一2，则A的所有n一2阶子式均为零.",
+		"result": 0
+	},{
+		"title": "若a1，a2,是线性方程组 AX =0的两个解向量，则k1a1+k2a2（k1,k2属于任意常数）也是AX=0的解向量。",
+		"result": 1
+	},{
+		"title": "-a32a43a14a51a25a66是六阶行列式中的项",
+		"result": 0
+	},{
+		"title": "设D为n(n≥2)阶行列式，若交换D的两行后所得的行列式的值不变，则D的值必然为 0。",
+		"result": 1
+	},{
+		"title": "设A为n阶方阵，则AA*=A*A=|A|E。",
+		"result": 1
+	},{
+		"title": "设A,B都是n阶方阵，并且都可逆，则 AB= BA.",
+		"result": 0
+	},{
+		"title": "N阶矩阵A可逆，则r(A) =n. ",
+		"result": 1
+	},{
+		"title": "若A~B,则r(A)=r(B) ",
+		"result": 1
+	},{
+		"title": "若向量组a1,a2,a3,a4,a5线性无关，则a3,a4,a5一定线性无关。",
+		"result": 1
+	},{
+		"title": "包含零向量的向量组一定是线性无关的。",
+		"result": 0
+	},{
+		"title": "任何一个n维向量都可以由n维基本单位向量组线性表示. ",
+		"result": 1
+	},{
+		"title": "/static/1.jpg",
+		"result": 1
+	},{
+		"title": "/static/2.jpg",
+		"result": 0
+	},{
+		"title": "/static/3.jpg",
+		"result": 1
+	}]
+}

@@ -1,0 +1,1788 @@
+{
+    "词汇结构": [
+        {
+            "title": "She felt she needed time to __________ on what to do next.",
+            "option": [
+                "object",
+                "reject",
+                "neglect",
+                "reflect"
+            ],
+            "result": "reflect"
+        },
+        {
+            "title": "If darkness or night __________, it becomes dark and day changes to night.",
+            "option": [
+                "ascends",
+                "descends",
+                "presents",
+                "absents"
+            ],
+            "result": "descends"
+        },
+        {
+            "title": "In the second experiment they __________ a very clear result.",
+            "option": [
+                "reflect",
+                "correct",
+                "obtained",
+                "fade"
+            ],
+            "result": "obtained"
+        },
+        {
+            "title": "Our boxes are in __________and should arrive tomorrow.",
+            "option": [
+                "transit",
+                "transition",
+                "translate",
+                "translation"
+            ],
+            "result": "transit"
+        },
+        {
+            "title": "They were making a __________ amount of noise last night.",
+            "option": [
+                "transient",
+                "tremendous",
+                "temporary",
+                "permanent"
+            ],
+            "result": "tremendous"
+        },
+        {
+            "title": "The foundations will have to be __________ to prevent the house from sinking further into the ground.",
+            "option": [
+                "raised",
+                "reinforced",
+                "resisted",
+                "persisted"
+            ],
+            "result": "reinforced"
+        },
+        {
+            "title": "They're ______ to socialize with a very small circle of people.",
+            "option": [
+                "consent",
+                "comment",
+                "content",
+                "commend"
+            ],
+            "result": "content"
+        },
+        {
+            "title": "Consultants who have easy access to the president are those who have _______ the president.",
+            "option": [
+                "freedom to make use of",
+                "permission to approach or communicate with",
+                "a means of entering or approaching",
+                "experience to teach"
+            ],
+            "result": "permission to approach or communicate with"
+        },
+        {
+            "title": "She's too smart to fall into the ______ of working without pay.",
+            "option": [
+                "trace",
+                "trap",
+                "brace",
+                "break"
+            ],
+            "result": "trap"
+        },
+        {
+            "title": "The politician attempts to keep the favor of the voters. The word 'favor' here means _______.",
+            "option": [
+                "friendly regard shown toward another",
+                "gracious kindness",
+                "approving consideration or attention",
+                "reject something"
+            ],
+            "result": "friendly regard shown toward another"
+        },
+        {
+            "title": "The crowd ______ mostly of college kids and office workers.",
+            "option": [
+                "composed",
+                "posed",
+                "draw",
+                "consisted"
+            ],
+            "result": "consisted"
+        },
+        {
+            "title": "A person who is slippery is someone you feel _______.",
+            "option": [
+                "you cannot trust",
+                "difficult to deal with",
+                "difficult to hold",
+                "easy to get along with"
+            ],
+            "result": "you cannot trust"
+        },
+        {
+            "title": "The company is being widely ______ in the media for failing to limit air pollution.",
+            "option": [
+                "criticize",
+                "criticizes",
+                "criticizing",
+                "criticized"
+            ],
+            "result": "criticized"
+        },
+        {
+            "title": "This is an opportunity to __________ the reputation of the company.",
+            "option": [
+                "enhance",
+                "decrease",
+                "diminish",
+                "abate"
+            ],
+            "result": "enhance"
+        },
+        {
+            "title": "If you ______ people for an organization, you select them and persuade them to join it or work for it.",
+            "option": [
+                "recruit",
+                "interview",
+                "meet",
+                "find"
+            ],
+            "result": "recruit"
+        },
+        {
+            "title": "The new tax caused a huge __________ of public anger in America.",
+            "option": [
+                "amount",
+                "authority",
+                "motivation",
+                "population"
+            ],
+            "result": "amount"
+        },
+        {
+            "title": "Your ______ are the people who are the same age as you or who have the same status as you.",
+            "option": [
+                "opponents",
+                "peers",
+                "colleagues",
+                "relatives"
+            ],
+            "result": "peers"
+        },
+        {
+            "title": "Our trade union has __________ the introduction of automation.",
+            "option": [
+                "resisted",
+                "persisted",
+                "reset",
+                "pressed"
+            ],
+            "result": "resisted"
+        },
+        {
+            "title": "John's problems were ____________ by his lack of concentration.",
+            "option": [
+                "compound",
+                "comprehend",
+                "compounded",
+                "comprehended"
+            ],
+            "result": "compounded"
+        },
+        {
+            "title": "Children challenge their parents' _________ far more nowadays than they did in the past.",
+            "option": [
+                "authority",
+                "innocence",
+                "romance",
+                "education"
+            ],
+            "result": "authority"
+        },
+        {
+            "title": "In the first _________ , the camera moves slowly across the room.",
+            "option": [
+                "event",
+                "places",
+                "scene",
+                "part"
+            ],
+            "result": "scene"
+        },
+        {
+            "title": "She seemed __________ in her commitment to finish school.",
+            "option": [
+                "sincere",
+                "naive",
+                "chronic",
+                "risky"
+            ],
+            "result": "sincere"
+        },
+        {
+            "title": "There seems to be a lack of _________ among the employees.",
+            "option": [
+                "motivational",
+                "motivated",
+                "motivate",
+                "motivation"
+            ],
+            "result": "motivation"
+        },
+        {
+            "title": "They decided to remove their son from the school. The word 'remove' here means _____.",
+            "option": [
+                "to make a negative feeling disappear",
+                "to take something or someone away from somewhere",
+                "to take something or someone off something",
+                "to accept something or someone from somewhere"
+            ],
+            "result": "to take something or someone away from somewhere"
+        },
+        {
+            "title": "Too _________ the eyes.",
+            "option": [
+                "benefits",
+                "strains",
+                "strain",
+                "benefit"
+            ],
+            "result": "strains"
+        },
+        {
+            "title": "His main objective this semester is to improve his grades. The word 'objective' here means _____.",
+            "option": [
+                "not influenced by personal feelings or beliefs",
+                "fair or real",
+                "something that he aims to do or achieve",
+                "failure or fear"
+            ],
+            "result": "something that he aims to do or achieve"
+        },
+        {
+            "title": "The material that resists heat will_____.",
+            "option": [
+                "counteract or defeat heat",
+                "refuse to accept heat",
+                "not be harmed or damaged by heat",
+                "be harmed or damaged by heat"
+            ],
+            "result": "not be harmed or damaged by heat"
+        },
+        {
+            "title": "The factory replaced most of its workers with robots. The word 'replace' here means _____.",
+            "option": [
+                "to put something back where it was before",
+                "to take the place of something or somebody",
+                "to change something that is old for a similar thing that is newer",
+                "to express one's welcome to somebody"
+            ],
+            "result": "to take the place of something or somebody"
+        },
+        {
+            "title": "He threatened to complain of him to the captain. The word 'complain' here means _______.",
+            "option": [
+                "to express grief, pain or discontent",
+                "to make a formal accusation or charge",
+                "to say that you are suffering from a pain",
+                "to make an announcement"
+            ],
+            "result": "to make a formal accusation or charge"
+        },
+        {
+            "title": "We must wish ourselves good fortune in our __________.",
+            "option": [
+                "endeavors",
+                "competencies",
+                "mistakes",
+                " Inadequacy"
+            ],
+            "result": "endeavors"
+        },
+        {
+            "title": "The proper thing is the one that is correct or most ______ .",
+            "option": [
+                "useful",
+                "expensive",
+                "suitable",
+                "important"
+            ],
+            "result": "suitable"
+        },
+        {
+            "title": "Mexico gained its __________ from Spain in 1821.",
+            "option": [
+                "dependence",
+                "independence",
+                "disparity",
+                "similarity"
+            ],
+            "result": "independence"
+        },
+        {
+            "title": "Translators can now work from home, via electronic mail systems, which means that translators can work ______ electronic mail systems",
+            "option": [
+                "through",
+                "without",
+                "in",
+                "from"
+            ],
+            "result": "through"
+        },
+        {
+            "title": "Think about which times of day your __________ is highest, and do the most difficult tasks then.",
+            "option": [
+                "productivity",
+                "production",
+                "Feature",
+                "subjectivity"
+            ],
+            "result": "productivity"
+        },
+        {
+            "title": "He gave a ______ promise.",
+            "option": [
+                "verbal",
+                "potential",
+                "strain",
+                "wonder"
+            ],
+            "result": "verbal"
+        },
+        {
+            "title": "An ongoing investigation is an investigation that is _____.",
+            "option": [
+                "being friendly",
+                "continuing to exist or develop",
+                "without interruptions",
+                "completely out"
+            ],
+            "result": "continuing to exist or develop"
+        },
+        {
+            "title": "It is at your ______ to take it or leave it.",
+            "option": [
+                "defeat",
+                "option",
+                "damage",
+                "harm"
+            ],
+            "result": "option"
+        },
+        {
+            "title": "It was a blessing that no one was killed in the accident. The word 'blessing' here means _____.",
+            "option": [
+                "a prayer asking for God's help",
+                "approval someone gives to the action",
+                "something that is extremely lucky",
+                "something that is finished fading completely"
+            ],
+            "result": "something that is extremely lucky"
+        },
+        {
+            "title": "If something ______, it changes.",
+            "option": [
+                "boosts",
+                "alters",
+                "withdraws",
+                "makes"
+            ],
+            "result": "alters"
+        },
+        {
+            "title": "That I'm not hooked into the political circles means I _____ it.",
+            "option": [
+                "don't get involved with",
+                "am not fastened to",
+                "managed to get out of",
+                "brought an end to suffer"
+            ],
+            "result": "don't get involved with"
+        },
+        {
+            "title": "Good ______ is essential if patients are to make a quick recovery.",
+            "option": [
+                "medicine",
+                "reject",
+                "nutrition",
+                "content"
+            ],
+            "result": "nutrition"
+        },
+        {
+            "title": "A _____ is someone who has been doing a job or other activity for only a short time and so is not experienced at it.",
+            "option": [
+                "novice",
+                "tailor",
+                "coup",
+                "siege"
+            ],
+            "result": "novice"
+        },
+        {
+            "title": "I can't afford it; it's too expensive. The word 'afford' here means ______.",
+            "option": [
+                " to provide",
+                "to be able to buy",
+                "to prevent",
+                "to finish"
+            ],
+            "result": "to be able to buy"
+        },
+        {
+            "title": "A crucial time is extremely ________.",
+            "option": [
+                "exciting",
+                "important",
+                "relaxing",
+                "peaceful"
+            ],
+            "result": "important"
+        },
+        {
+            "title": "His life ______ around football.",
+            "option": [
+                "revolves",
+                "neglects",
+                "uses",
+                "notices"
+            ],
+            "result": "revolves"
+        },
+        {
+            "title": "The place looks more prosperous or ________ than ever.",
+            "option": [
+                "thriving",
+                "beautiful",
+                "crowded",
+                "endless"
+            ],
+            "result": "thriving"
+        },
+        {
+            "title": "His most recent business ______ ended in bankruptcy.",
+            "option": [
+                "consent",
+                "comment",
+                "content",
+                "venture"
+            ],
+            "result": "venture"
+        },
+        {
+            "title": "To generate a form of energy or power means to _______ it.",
+            "option": [
+                "save",
+                "replace",
+                "produce",
+                "bear"
+            ],
+            "result": "produce"
+        },
+        {
+            "title": "The company plans to ______ $325 million in its new plant.",
+            "option": [
+                "compose",
+                "withdraw",
+                "invest",
+                "draft"
+            ],
+            "result": "invest"
+        },
+        {
+            "title": "The panel discussion on cultural exchanges _________ the importance of people-to-people relations.",
+            "option": [
+                "highlighted",
+                "ended",
+                "finished",
+                "bowed"
+            ],
+            "result": "highlighted"
+        },
+        {
+            "title": "The problems were ______ in the area's history.",
+            "option": [
+                "reflected",
+                "involved",
+                "devoted",
+                "rooted"
+            ],
+            "result": "rooted"
+        },
+        {
+            "title": "The attainment of a goal is the act of ______.",
+            "option": [
+                "achieving the goal",
+                "chasing after the goal",
+                "designing the goal",
+                "criticizing the goal"
+            ],
+            "result": "achieving the goal"
+        },
+        {
+            "title": "A temporary contract is a contract that ______.",
+            "option": [
+                "lasts only for a short period of time",
+                "is flexible",
+                "is based on the law",
+                "change something that is old for a similar thing that is newer"
+            ],
+            "result": "lasts only for a short period of time"
+        },
+        {
+            "title": "The money is intended to be used for ______ purposes.",
+            "option": [
+                "useless",
+                "expensive",
+                "specific",
+                "unimportant"
+            ],
+            "result": "specific"
+        },
+        {
+            "title": "My memory of childhood ______ as time goes by.",
+            "option": [
+                "compounds",
+                "fades",
+                "reflects",
+                "comprehends"
+            ],
+            "result": "fades"
+        },
+        {
+            "title": "America's trade ___ widened.",
+            "option": [
+                "gap",
+                "game",
+                "meeting",
+                "situation"
+            ],
+            "result": "gap"
+        },
+        {
+            "title": "The plan looks all right in principle, but in practice it wouldn't be _____.",
+            "option": [
+                "viable",
+                "difficult",
+                "essential",
+                "useless"
+            ],
+            "result": "viable"
+        },
+        {
+            "title": "Much of the instability _____ from the economic effects of the war.",
+            "option": [
+                "stems",
+                "functions",
+                "practices",
+                "treatments"
+            ],
+            "result": "stems"
+        },
+        {
+            "title": "Treatment is ______ to the needs of each patient.",
+            "option": [
+                "tailored",
+                "proper",
+                "verbal",
+                "expensive"
+            ],
+            "result": "tailored"
+        },
+        {
+            "title": "Students hoped for more __________ than an announcement in the school paper of their achievement.",
+            "option": [
+                "reward",
+                "award",
+                "forward",
+                "toward"
+            ],
+            "result": "reward"
+        },
+        {
+            "title": "Peak times are the times when ______.",
+            "option": [
+                "something reaches its highest level",
+                "there is a well-defined summit",
+                "most people are using or doing something",
+                "there is an important consideration"
+            ],
+            "result": "most people are using or doing something"
+        },
+        {
+            "title": "Debt is not necessarily a bad thing if the consumer can __________ to pay it back.",
+            "option": [
+                "refuse",
+                "reject",
+                "afford",
+                "support"
+            ],
+            "result": "afford"
+        },
+        {
+            "title": "The earthquake survivors are in __________ need of help.",
+            "option": [
+                "desperate",
+                "relax",
+                "release",
+                "relief"
+            ],
+            "result": "desperate"
+        },
+        {
+            "title": "Over the years the church has fallen into a state of __________.",
+            "option": [
+                "agreement",
+                "appointment",
+                "response",
+                "neglect"
+            ],
+            "result": "neglect"
+        },
+        {
+            "title": "If you __________ away all the rhetoric, you're left with an opinion that isn't backed up by facts.",
+            "option": [
+                "stick",
+                "read",
+                "write",
+                "strip"
+            ],
+            "result": "strip"
+        },
+        {
+            "title": "The organization was formed to __________ the needs of older people.",
+            "option": [
+                "prioritize",
+                "function",
+                "separate",
+                "spend"
+            ],
+            "result": "prioritize"
+        },
+        {
+            "title": "These people were deported because they posed a threat to national __________.",
+            "option": [
+                "online",
+                "obstacle",
+                "security",
+                "admission"
+            ],
+            "result": "security"
+        },
+        {
+            "title": "The company said the debt was __________ during its acquisition of nine individual businesses.",
+            "option": [
+                "selected",
+                "collected",
+                "accumulated",
+                "chased"
+            ],
+            "result": "accumulated"
+        },
+        {
+            "title": "A helicopter __________ the final section of the bridge into place.",
+            "option": [
+                "hosted",
+                "hoisted",
+                "dragged",
+                "drove"
+            ],
+            "result": "hoisted"
+        },
+        {
+            "title": "The road was closed while the _________ that had been involved in the accident were towed away.",
+            "option": [
+                "functions",
+                "suspense",
+                "vehicles",
+                "chains"
+            ],
+            "result": "vehicles"
+        }
+    ],
+    "阅读理解": [
+        {
+            "title": "Our long-term goals mean a lot____.",
+            "option": [
+                "if we complete our short-range goals",
+                "if we cannot reach solid short-term goals",
+                "if we write down the dates",
+                "if we put forward some plans"
+            ],
+            "result": "if we complete our short-range goals"
+        },
+        {
+            "title": "New short-term goals will build upon____.",
+            "option": [
+                "two years",
+                "long-term goals",
+                "current activities",
+                "the goals that have been completed."
+            ],
+            "result": "the goals that have been completed."
+        },
+        {
+            "title": "The intermediate goals____.",
+            "option": [
+                "last for a year",
+                "build on the foundation of the short-range goals",
+                "allow you to become discouraged or overwhelmed",
+                "will lead you to failure"
+            ],
+            "result": "build on the foundation of the short-range goals"
+        },
+        {
+            "title": "When we complete each step of our goals, ____.",
+            "option": [
+                "we will win final success",
+                "we are overwhelmed",
+                "we will build up confidence of success",
+                "we have a strong desire for setting new goals"
+            ],
+            "result": "we will build up confidence of success"
+        },
+        {
+            "title": "It is implied but not stated in the passage that____.",
+            "option": [
+                "those who have long-term goals will succeed",
+                "writing down the dates may discourage you",
+                "the goal is only a guide for us to reach our destination",
+                "everyone should have a goal"
+            ],
+            "result": "the goal is only a guide for us to reach our destination"
+        },
+        {
+            "title": "What is the passage mainly about?",
+            "option": [
+                "The scientific guide on how to take action.",
+                "The scientific guide on how to make a schedule.",
+                "The scientific guide on how to get and stay motivated.",
+                "The scientific guide on how to get started."
+            ],
+            "result": "The scientific guide on how to get and stay motivated."
+        },
+        {
+            "title": "Which of the following is true according to the passage?",
+            "option": [
+                "Setting a schedule for yourself is always simple.",
+                "Motivation is useless.",
+                "Sometimes it’s hard to figure out how to motivate yourself?",
+                "Motivation cannot compel you to take action at all."
+            ],
+            "result": "Sometimes it’s hard to figure out how to motivate yourself?"
+        },
+        {
+            "title": "Which of the following is NOT mentioned in the passage?",
+            "option": [
+                "When you don’t like doing something, just ignore it.",
+                "Many people struggle to find the motivation.",
+                "A ritual provides a mindless way to initiate your behavior.",
+                "General willingness to do something is called motivation."
+            ],
+            "result": "When you don’t like doing something, just ignore it."
+        },
+        {
+            "title": "When we are motivated, it is easier to      .",
+            "option": [
+                "bear the pain of remaining the same",
+                "display a willingness to do something",
+                "feel insecurity",
+                "bear the inconvenience of action"
+            ],
+            "result": "bear the inconvenience of action"
+        },
+        {
+            "title": "Which of the following is NOT true about motivation?",
+            "option": [
+                "It is often easier to finish a task than it was to start it in the first place.",
+                "Motivation is often the cause of an action.",
+                "Motivation often comes after starting a new behavior.",
+                "Getting started is a form of active inspiration."
+            ],
+            "result": "Motivation is often the cause of an action."
+        },
+        {
+            "title": "To whom does success come certainly?",
+            "option": [
+                "Great people who are remembered for their great achievements.",
+                "People who are sincere, hardworking, loyal and committed to their goals.",
+                "People who have all-around development.",
+                "People who have a strong motivation."
+            ],
+            "result": "People who are sincere, hardworking, loyal and committed to their goals."
+        },
+        {
+            "title": "Which one is NOT the basic thing in life we need to achieve success?",
+            "option": [
+                "Application.",
+                "A proper approach.",
+                "Planning.",
+                "Vision."
+            ],
+            "result": "Application."
+        },
+        {
+            "title": "Which word can best explain the meaning of 'stamina' in Paragraph2?",
+            "option": [
+                "Cultivation.",
+                "Clarity.",
+                "Indecision.",
+                "Endurance."
+            ],
+            "result": "Endurance."
+        },
+        {
+            "title": "Lack of high spirit leads to _____.",
+            "option": [
+                "a complicated situation",
+                "a feeling that you are not as good as others",
+                "the construction of the path to success",
+                "a struggle on the path to success"
+            ],
+            "result": "a feeling that you are not as good as others"
+        },
+        {
+            "title": "Which of the following is true according to the passage?",
+            "option": [
+                "Desire is the driving force that decides the success.",
+                "All great people have a strong motivation.",
+                "Failures are the stepping-stones of success.",
+                "Every success has a ratio of five percent perspiration and ninety-five percent inspiration."
+            ],
+            "result": "Failures are the stepping-stones of success."
+        },
+        {
+            "title": "What does the underlined word 'formula' (Para.1) mean?",
+            "option": [
+                "Qualities or talents needed for success.",
+                "The form of success.",
+                "The principle observed to achieve a result.",
+                "The methods used to achieve success."
+            ],
+            "result": "The principle observed to achieve a result."
+        },
+        {
+            "title": "It can be inferred from the passage that a successful businessman_______.",
+            "option": [
+                "tries to get experience through practice",
+                "pays attention to the essence of a problem when he tries to solve it",
+                "keeps on learning in order to be successful",
+                "has strong willpower, extensive interest and intelligence"
+            ],
+            "result": "pays attention to the essence of a problem when he tries to solve it"
+        },
+        {
+            "title": "According to the oil man, common sense can be acquired through______.",
+            "option": [
+                "hard work",
+                "debate",
+                "training",
+                "others"
+            ],
+            "result": "debate"
+        },
+        {
+            "title": "What can be inferred from the passage?",
+            "option": [
+                "Different people have different interpretations of common sense.",
+                "Common sense has nothing to do with one’s talent.",
+                "If you have enough common sense, you can succeed.",
+                "Common sense can only be developed through yourself."
+            ],
+            "result": "Different people have different interpretations of common sense."
+        },
+		{
+		    "title": "The passage is mainly concerned with____.",
+		    "option": [
+		        "organizational ability and good work habits",
+		        "the way to obtain big profits and achieve fame and success",
+		        "knowledge and interest which are primary to success",
+		        "what successful people have in common"
+		    ],
+		    "result": "what successful people have in common"
+		},
+        {
+            "title": "What can the immune system do?",
+            "option": [
+                "Collect structures and processes within the body.",
+                "Cure disease.",
+                "Damage foreign bodies.",
+                "Tell various threats to the body apart from the body's own healthy tissue."
+            ],
+            "result": "Tell various threats to the body apart from the body's own healthy tissue."
+        },
+        {
+            "title": "Which of the following is NOT true about innate immunity?",
+            "option": [
+                "People are born with it.",
+                "It consists of barriers that keep out external threats.",
+                "The cough reflex is part of innate immunity.",
+                "It doesn’t protect against any threats."
+            ],
+            "result": "It doesn’t protect against any threats."
+        },
+        {
+            "title": "Which of the following is NOT true about adaptive immunity?",
+            "option": [
+                "It targets specific threats to the body.",
+                "People are not born with it.",
+                "It works more efficiently towards any threat than innate immunity.",
+                "It is more complex than innate immunity."
+            ],
+            "result": "It works more efficiently towards any threat than innate immunity."
+        },
+        {
+            "title": "What does “neutralize”(Para. 4) mean?",
+            "option": [
+                "Have no effect.",
+                "Identify.",
+                "Put in the middle.",
+                "Proceed"
+            ],
+            "result": "Have no effect."
+        },
+        {
+            "title": "Which is the best title for the passage?",
+            "option": [
+                "The Immune System",
+                "Innate Immunity",
+                "Adaptive Immunity",
+                "Differences Between Innate Immunity and Adaptive Immunity"
+            ],
+            "result": "The Immune System"
+        },
+        {
+            "title": "Which is NOT true about the new study mentioned in the passage?",
+            "option": [
+                "Its results were presented Sunday at the American Heart Association Scientific Sessions in Anaheim, California.",
+                "It is the first study to find a link between prolonged TV viewing and heart disease involving blocked arteries.",
+                "It suggests that watching too much television increases the risk of potentially fatal blood clots.",
+                "It is the first study in a Western population to look at VTE."
+            ],
+            "result": "It is the first study to find a link between prolonged TV viewing and heart disease involving blocked arteries."
+        },
+        {
+            "title": "What is suggested about watching TV according to the passage?",
+            "option": [
+                "Watching TV is harmful.",
+                "Taking snacks and sitting still while watching TV.",
+                "Doing some exercise while watching TV.",
+                "All of the above."
+            ],
+            "result": "Doing some exercise while watching TV."
+        },
+        {
+            "title": "Which of the following is NOT true about VTE?",
+            "option": [
+                "It is the most common vascular diagnosis.",
+                "Each year, about 300,000 to 600,000 people in the US develop this disease.",
+                "Watching too much television increases the risk of it.",
+                "It is blood clots in the veins of the legs, arms, pelvis and lungs."
+            ],
+            "result": "It is the most common vascular diagnosis."
+        },
+        {
+            "title": "How can people lower the risk of VTE?",
+            "option": [
+                "Avoid prolonged TV watching.",
+                "Maintain a healthy weight.",
+                "Stay physically active.",
+                "All of the above."
+            ],
+            "result": "All of the above."
+        },
+        {
+            "title": "What does “prolonged” (Para. 3) mean?",
+            "option": [
+                "Delayed.",
+                "Continuing for a long time.",
+                "Unlimited.",
+                "Long-term."
+            ],
+            "result": "Continuing for a long time."
+        },
+        {
+            "title": "How many techniques are provided in this passage?",
+            "option": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "result": "4"
+        },
+        {
+            "title": "What does the word “repertoire” (Para. 2) mean?",
+            "option": [
+                "A method that involves practical skills.",
+                "The skill with which someone is able to do something practical.",
+                "The state of having something.",
+                "All the things that a person is able to do."
+            ],
+            "result": "All the things that a person is able to do."
+        },
+        {
+            "title": "Which is NOT a possible personal barrier according to the passage?",
+            "option": [
+                "Selecting the first alternative.",
+                "Selecting the alternative with the least risk.",
+                "Accepting the information you get as it is.",
+                "Considering some alternatives honestly."
+            ],
+            "result": "Considering some alternatives honestly."
+        },
+        {
+            "title": "Why should we talk with experienced persons about their problem-solving approach?",
+            "option": [
+                "Because they may tell you about their own problem-solving approach.",
+                "Because you can learn skills from them.",
+                "Because you can gain a lot of insight from them.",
+                "Because they may discuss your thought process."
+            ],
+            "result": "Because you can gain a lot of insight from them."
+        },
+        {
+            "title": "What can we infer from the passage?",
+            "option": [
+                "Read biographies of leaders of social movements, businesses, and the military.",
+                "Problem-solving can only be developed through practice.",
+                "Pretend you are the decision-maker in tough issues, and work through what you would do.",
+                "Examine your own personal barriers in being an effective problem-solver."
+            ],
+            "result": "Problem-solving can only be developed through practice."
+        },
+        {
+            "title": "What is the passage mainly about?",
+            "option": [
+                "Rational versus organic approach to problem-solving.",
+                "Rational approach to problem-solving.",
+                "Organic approach to problem-solving.",
+                "What problem-solving is."
+            ],
+            "result": "Rational versus organic approach to problem-solving."
+        },
+        {
+            "title": "Which of the following is a rational to problem-solving?",
+            "option": [
+                "Examining all potential causes for the problem.",
+                "Identifying all alternatives to resolve the problem.",
+                "Carefully selecting an alternative.",
+                "All of the above."
+            ],
+            "result": "All of the above."
+        },
+        {
+            "title": "What is the advantage of the rational approach to problem-solving?",
+            "option": [
+                "It gives a strong sense of order in a chaotic situation.",
+                "It provides a common frame of reference from which people can communicate in the situation.",
+                "It is highly adaptable to understanding and explaining the chaotic changes.",
+                "It suits the nature of people who shun linear and mechanistic approaches to projects."
+            ],
+            "result": "It provides a common frame of reference from which people can communicate in the situation."
+        },
+        {
+            "title": "Where does the quality of an organization or life come from?",
+            "option": [
+                "The ongoing process of trying.",
+                "Solving one problem after another.",
+                "Having fixed a lot of problems.",
+                "Arriving at the destination."
+            ],
+            "result": "The ongoing process of trying."
+        },
+        {
+            "title": "What is the disadvantage of the organic approach to problem-solving?",
+            "option": [
+                "The world is much too chaotic for the approach to be useful.",
+                "It provides no clear frame of reference for people to solve problems.",
+                "It can take a long time to finish.",
+                "It is not an approach to organizational consulting."
+            ],
+            "result": "It provides no clear frame of reference for people to solve problems."
+        }
+    ],
+    "听力": [
+        {
+            "title": "",
+            "option": [
+                "￥ 3",
+                "￥ 1.5",
+                "￥ 4.5",
+                "￥ 10.5"
+            ],
+            "result": "￥ 10.5"
+        },
+        {
+            "title": "",
+            "option": [
+                "$ 8.60",
+                "$ 4.30",
+                "$ 6.40",
+                "$ 1.40"
+            ],
+            "result": "$ 4.30"
+        },
+        {
+            "title": "",
+            "option": [
+                "Ten dollars",
+                "Two dollars",
+                "Five dollars",
+                "One dollar"
+            ],
+            "result": "Ten dollars"
+        },
+        {
+            "title": "",
+            "option": [
+                "$ 7",
+                "$ 8",
+                "$ 15",
+                "$ 50"
+            ],
+            "result": "$ 50"
+        },
+        {
+            "title": "",
+            "option": [
+                "$ 10",
+                "$ 3",
+                "$ 2",
+                "$ 4"
+            ],
+            "result": "$ 4"
+        },
+        {
+            "title": "",
+            "option": [
+                "He says there are lots of questions",
+                "He says there is only one question.",
+                "He says there are no questions.",
+                "He says there are a few questions."
+            ],
+            "result": "He says there are lots of questions"
+        },
+        {
+            "title": "",
+            "option": [
+                "He was from central England.",
+                "He was the first in a sequence of scientists.",
+                "He was a mathematician.",
+                "He was a physician."
+            ],
+            "result": "He was a mathematician."
+        },
+        {
+            "title": "",
+            "option": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "result": "8"
+        },
+        {
+            "title": "",
+            "option": [
+                "They are common",
+                "They are uncommon",
+                "They are very difficult to understand",
+                "They are very easy to understand"
+            ],
+            "result": "They are common"
+        },
+        {
+            "title": "",
+            "option": [
+                "To explain better.",
+                "To bring more examples to next class.",
+                "To include this in the exam.",
+                "To read examples with students together."
+            ],
+            "result": "To bring more examples to next class."
+        },
+        {
+            "title": "",
+            "option": [
+                "He had a driving lesson.",
+                "He got his driver’s license.",
+                "He took the driver’s theory exam.",
+                "He passed the driver’s road test."
+            ],
+            "result": "He took the driver’s theory exam."
+        },
+        {
+            "title": "",
+            "option": [
+                "He was not well prepared.",
+                "He did not get to the exam in time.",
+                "He was not used to the test format.",
+                "He did not follow the test procedure."
+            ],
+            "result": "He was not well prepared."
+        },
+        {
+            "title": "",
+            "option": [
+                "They are tough.",
+                "They are costly.",
+                "They are helpful",
+                "They are too short."
+            ],
+            "result": "They are costly."
+        },
+        {
+            "title": "",
+            "option": [
+                "Pass his road test the first time.",
+                "Test-drive a few times on highways.",
+                "Find an experienced driving instructor.",
+                "Earn enough money for driving lessons."
+            ],
+            "result": "Pass his road test the first time."
+        },
+        {
+            "title": "",
+            "option": [
+                "It is a power that drives us to keep moving ahead. ",
+                "It encourages continuous learning and success.",
+                "It is a primary means of realizing our goals and progressing.",
+                "All of the above."
+            ],
+            "result": "All of the above."
+        },
+        {
+            "title": "",
+            "option": [
+                "Assist, support and motivate others.",
+                "Monitor and record your success.",
+                "Discover your interest area.",
+                "Break your bigger goals into smaller goals."
+            ],
+            "result": "Assist, support and motivate others."
+        },
+        {
+            "title": "",
+            "option": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "result": "6"
+        },
+        {
+            "title": "",
+            "option": [
+                "He finds the presentation hard to follow. ",
+                "He considers the presentation very dull.",
+                "He thinks Professor White has chosen an interesting topic.",
+                "He speaks highly of the presentation."
+            ],
+            "result": "He speaks highly of the presentation."
+        },
+        {
+            "title": "",
+            "option": [
+                "Her car can stand any crash.",
+                "Her car is not as good as his.",
+                "Her car is maintained as well as his.",
+                "Her car is kept in good condition."
+            ],
+            "result": "Her car is kept in good condition."
+        },
+        {
+            "title": "",
+            "option": [
+                "She is surprised Mary worked as a programmer.",
+                "She wonders why Mary kept the job.",
+                "She doesn’t know when Mary’s classes started.",
+                "She doubts Mary makes much money now."
+            ],
+            "result": "She wonders why Mary kept the job."
+        },
+        {
+            "title": "",
+            "option": [
+                "The woman should be more careful next time.",
+                "They try to think of a solution.",
+                "They come downstairs.",
+                "The woman should find a spare key."
+            ],
+            "result": "They try to think of a solution."
+        },
+        {
+            "title": "",
+            "option": [
+                "Stay in the dormitory.",
+                "Move out.",
+                "Live with him.",
+                "Live at home."
+            ],
+            "result": "Move out."
+        },
+        {
+            "title": "",
+            "option": [
+                "Luck.",
+                "Talent.",
+                "Passion.",
+                "Pushing."
+            ],
+            "result": "Luck."
+        },
+        {
+            "title": "",
+            "option": [
+                "How you respond to the opportunity is very important.",
+                "Innate talent is very important.",
+                "Practice is very important.",
+                "Skills are very important."
+            ],
+            "result": "Practice is very important."
+        },
+        {
+            "title": "",
+            "option": [
+                "A predisposition favours a certain talent.",
+                "Passion is important if you want to be successful.",
+                "Hard work is important if you want to be successful.",
+                "You have to put your nose to the grindstone."
+            ],
+            "result": "Passion is important if you want to be successful."
+        },
+        {
+            "title": "",
+            "option": [
+                "They don’t work hard.",
+                "They all love what they do.",
+                "They have fun while they’re working.",
+                "They don’t have fun while they’re working."
+            ],
+            "result": "They have fun while they’re working."
+        },
+        {
+            "title": "",
+            "option": [
+                "Intelligence",
+                "Hard work",
+                "Motivation",
+                "Luck"
+            ],
+            "result": "Intelligence"
+        },
+        {
+            "title": "",
+            "option": [
+                "She got a well-paying job in a bank.",
+                "She received a bonus unexpectedly.",
+                "She received her first monthly salary.",
+                "She got a pay for her performance."
+            ],
+            "result": "She received her first monthly salary."
+        },
+        {
+            "title": "",
+            "option": [
+                "Several years ago.",
+                "Two decades ago.",
+                "Right after graduation.",
+                "Just last month."
+            ],
+            "result": "Two decades ago."
+        },
+        {
+            "title": "",
+            "option": [
+                "He sent a small check to his parents.",
+                "He took a few of his friends to a gym.",
+                "He immediately deposited it in a bank.",
+                "He treated his parents to a nice meal."
+            ],
+            "result": "He treated his parents to a nice meal."
+        },
+        {
+            "title": "",
+            "option": [
+                "Buy some professional clothes.",
+                "Budget her salary carefully.",
+                "Join her colleagues for gym exercise.",
+                "Visit her former university campus."
+            ],
+            "result": "Join her colleagues for gym exercise."
+        },
+        {
+            "title": "",
+            "option": [
+                "His acting role as Superman.",
+                "His famous speech.",
+                "His definition of a hero.",
+                "His secret of success."
+            ],
+            "result": "His acting role as Superman."
+        },
+        {
+            "title": "",
+            "option": [
+                "He worked very hard.",
+                "He was critically injured by a riding accident.",
+                "He became famous for the film Superman.",
+                "He was successful for his dozens of interviews."
+            ],
+            "result": "He was critically injured by a riding accident."
+        },
+        {
+            "title": "",
+            "option": [
+                "Someone who commits a courageous action.",
+                "Someone who does something without considering the consequences.",
+                "An ordinary person who finds the strength to stick to something in spite of difficulties.",
+                "A successful individual who endures something in spite of difficulties and hardships."
+            ],
+            "result": "An ordinary person who finds the strength to stick to something in spite of difficulties."
+        },
+        {
+            "title": "",
+            "option": [
+                "Husband and wife. ",
+                "Father and daughter.",
+                "Doctor and patient.",
+                "Teacher and student."
+            ],
+            "result": "Doctor and patient."
+        },
+        {
+            "title": "",
+            "option": [
+                "He can see the young lady right now. ",
+                "He can’t see the young lady today.",
+                "He can’t see the young lady later.",
+                "He can see the young lady later."
+            ],
+            "result": "He can see the young lady later."
+        },
+        {
+            "title": "",
+            "option": [
+                "She used to be in poor health. ",
+                "She was somewhat overweight.",
+                "She didn’t do well at high school",
+                "She was popular among boys."
+            ],
+            "result": "She was somewhat overweight."
+        },
+        {
+            "title": "",
+            "option": [
+                "The man suggests that the woman reduce the daily amount of smoking.",
+                "The man suggests that the woman go jogging.",
+                "The man suggests that the woman deal with the waistline.",
+                "The man suggests that the woman quit the smoking and do exercise."
+            ],
+            "result": "The man suggests that the woman quit the smoking and do exercise."
+        },
+        {
+            "title": "",
+            "option": [
+                "She gets up late in the morning.",
+                "She goes to bed late in the evening.",
+                "She experienced a disaster and became fat.",
+                "She eats too much at night."
+            ],
+            "result": "She eats too much at night."
+        },
+        {
+            "title": "",
+            "option": [
+                "Paleo diet includes lean meats, fishes, fruits, and vegetables.",
+                "Paleo diet includes lean meats, fruits, chips, and vegetables.",
+                "Paleo diet includes lean meats, snacks, fruits, and vegetables.",
+                "Paleo diet includes lean meats, snacks chips, and vegetables."
+            ],
+            "result": "Paleo diet includes lean meats, fishes, fruits, and vegetables."
+        },
+        {
+            "title": "",
+            "option": [
+                "Our moods can be affected by foods.",
+                "Our moods can be affected by chemistry.",
+                "Our moods can be affected by what we eat.",
+                "Our moods can be affected by our body condition."
+            ],
+            "result": "Our moods can be affected by what we eat."
+        },
+        {
+            "title": "",
+            "option": [
+                "We should feel upset but show down, and find the best way to solve the problem",
+                "We should feel angry but show down, and find the best way to solve the problem.",
+                "We should feel clam, relax and show down.",
+                "We should feel calm, and think clearly about the best way to solve the problem."
+            ],
+            "result": "We should feel calm, and think clearly about the best way to solve the problem."
+        },
+        {
+            "title": "",
+            "option": [
+                "A good diet. ",
+                "Enough exercise.",
+                "Enough sleep.",
+                "Good stress management skills."
+            ],
+            "result": "Enough sleep."
+        },
+        {
+            "title": "",
+            "option": [
+                "Three years ago.",
+                "Three months ago.",
+                "Five years ago.",
+                "Five months ago."
+            ],
+            "result": "Three years ago."
+        },
+        {
+            "title": "",
+            "option": [
+                "Neck pain.",
+                "Headache",
+                "Loss of feeling in one’s hands and fingers.",
+                "All of the above."
+            ],
+            "result": "All of the above."
+        },
+        {
+            "title": "",
+            "option": [
+                "A friend of the woman.",
+                "An exercise teacher.",
+                "A student of the man.",
+                "A fitness coach."
+            ],
+            "result": "An exercise teacher."
+        },
+        {
+            "title": "",
+            "option": [
+                "Take a class like Fielding’s.",
+                "Do regular sports.",
+                "Do neck exercises only.",
+                "Take simple steps to improve tech neck."
+            ],
+            "result": "Take simple steps to improve tech neck."
+        },
+        {
+            "title": "",
+            "option": [
+                "Stand up and stretch our legs once in a while.",
+                "Give our eyes a break by opening them throughout the day.",
+                "Take breaks from using our technology.",
+                "Move our neck, head or shoulders."
+            ],
+            "result": "Take breaks from using our technology."
+        },
+        {
+            "title": "",
+            "option": [
+                "7,000.",
+                "66,000.",
+                "70,000.",
+                "166,000"
+            ],
+            "result": "70,000."
+        },
+        {
+            "title": "",
+            "option": [
+                "Age.",
+                "Weight.",
+                "Height.",
+                "Health."
+            ],
+            "result": "Height."
+        },
+        {
+            "title": "",
+            "option": [
+                "Drink a lot of water even if you do not feel thirsty.",
+                "Stay inside in air-conditioned spaces as much as possible.",
+                "Wear light-colored clothing and use skin products that protect you from sunburn.",
+                "All of the above."
+            ],
+            "result": "All of the above."
+        },
+        {
+            "title": "",
+            "option": [
+                "There is no replacement for the handle.",
+                "The suitcase can be fixed in time.",
+                "The suitcase is not worth fixing.",
+                "There is no match for the suitcase."
+            ],
+            "result": "The suitcase can be fixed in time."
+        },
+        {
+            "title": "",
+            "option": [
+                "The woman is the manager of the apartment building.",
+                "The woman is very good at bargaining.",
+                "The woman will get the apartment refurnished.",
+                "The woman is looking for an apartment."
+            ],
+            "result": "The woman is looking for an apartment."
+        },
+        {
+            "title": "",
+            "option": [
+                "Both of them are laymen (门外汉) of modern art.",
+                "He has learned to appreciate modern art.",
+                "Italian artists’ works are difficult to understand.",
+                "Modern artists are generally considered weird."
+            ],
+            "result": "He has learned to appreciate modern art."
+        },
+        {
+            "title": "",
+            "option": [
+                "The two speakers will watch the game together.",
+                "The woman feels lucky to have got a ticket.",
+                "The man plays center on the basketball team.",
+                "The man can get the ticket at its original price."
+            ],
+            "result": "The man can get the ticket at its original price."
+        },
+        {
+            "title": "",
+            "option": [
+                "Change to a more exciting channel.",
+                "See the movie some other time.",
+                "Go to bed early.",
+                "Stay up till eleven."
+            ],
+            "result": "Go to bed early."
+        },
+        {
+            "title": "",
+            "option": [
+                "Calculations with different methods and application of UPS.",
+                "Application of UPS check to math problems.",
+                "Adding numbers with different methods.",
+                "Methods of adding numbers and application of UPS check."
+            ],
+            "result": "Methods of adding numbers and application of UPS check."
+        },
+        {
+            "title": "",
+            "option": [
+                "The first step.",
+                "The second step.",
+                "The third step.",
+                "The forth step."
+            ],
+            "result": "The third step."
+        },
+        {
+            "title": "",
+            "option": [
+                "Jana, Joyce, 8, how many.",
+                "Jana, Joyce, 1 more than, how many.",
+                "Jana, Joyce, 8, how many.",
+                "Jana, Joyce, 8, 1 more than."
+            ],
+            "result": "Jana, Joyce, 8, 1 more than."
+        },
+        {
+            "title": "",
+            "option": [
+                "Understand.",
+                "Solve the problem.",
+                "Plan.",
+                "Check."
+            ],
+            "result": "Check."
+        },
+        {
+            "title": "",
+            "option": [
+                "In reality, we are seldom solving problems.",
+                "The better our problem-solving skills are, the easier our lives are.",
+                "We should know in what shapes and forms the problems arise first.",
+                "If we are lucky enough, we won’t be faced with one problem to solve."
+            ],
+            "result": "The better our problem-solving skills are, the easier our lives are."
+        },
+        {
+            "title": "",
+            "option": [
+                "Which course to take to study?",
+                "How to fix a project that’s running behind schedule?",
+                "What to have for dinner tonight?",
+                "How to change from an uninspiring job to a career you’re fond of?"
+            ],
+            "result": "Which course to take to study?"
+        },
+        {
+            "title": "",
+            "option": [
+                "The more problems you can solve, the less difficulties all-round.",
+                "Problems arise in different shapes and forms, including daily problems and more complex problems.",
+                "It gets easier when we realize that problems are simply choices.",
+                "All of the above."
+            ],
+            "result": "All of the above."
+        },
+        {
+            "title": "",
+            "option": [
+                "Why problem-solving skills are important.",
+                "How to enhance her problem-solving skills.",
+                "Focus on the solution, not the problem.",
+                "List out as many solutions as possible."
+            ],
+            "result": "How to enhance her problem-solving skills."
+        },
+        {
+            "title": "",
+            "option": [
+                "Acquiring information and professional knowledge.",
+                "Using information to understand and solve problems.",
+                "Enriching social and intellectual lives.",
+                "Expressing ideas and opinions freely."
+            ],
+            "result": "Using information to understand and solve problems."
+        },
+        {
+            "title": "",
+            "option": [
+                "Improving mind-reading strategies.",
+                "Reading classic scientific literature.",
+                "Playing games that challenge one’s mind.",
+                "Travelling to different places in the world."
+            ],
+            "result": "Playing games that challenge one’s mind."
+        },
+        {
+            "title": "",
+            "option": [
+                "Give others freedom to express themselves.",
+                "Expose themselves to different cultures.",
+                "Discard personal biases and prejudices.",
+                "Participate in debates or discussions."
+            ],
+            "result": "Participate in debates or discussions."
+        },
+        {
+            "title": "",
+            "option": [
+                "/static/el1.png",
+                "/static/el2.png",
+                "/static/el3.png",
+                "/static/el4.png"
+            ],
+            "result": "/static/el2.png"
+        }
+    ]
+}

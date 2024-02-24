@@ -1,0 +1,834 @@
+{
+	"阅读理解": [{
+		"title": "How many study tips are suggested in this passage?.",
+		"option": ["3", "4", "5", "6"],
+		"result": "4"
+	}, {
+		"title": "What is the meaning of the word “commitments” in the third paragraph?.",
+		"option": ["Promise", "A strong belief in an idea or system",
+			"Something which regularly takes up some of your time",
+			"The process of officially sending someone to prison or to hospital"
+		],
+		"result": "Something which regularly takes up some of your time"
+	}, {
+		"title": "How can a student stay organized according to the passage?.",
+		"option": ["Keep a detailed schedule", "Organize class materials", "Both A and B", "Ask professors"],
+		"result": "Both A and B"
+	}, {
+		"title": "What can we infer from the passage?.",
+		"option": ["Good study habits are necessary to college students if they want to make achievements",
+			"Internet is essential for students all the time",
+			"You should make notes of all the details of the lectures",
+			"Cramming for an exam is a good way to get high grades"
+		],
+		"result": "Good study habits are necessary to college students if they want to make achievements"
+	}, {
+		"title": "Why should a student unplug sometimes according to the passage.",
+		"option": ["Because it may not be safe", "Because the student may be tired",
+			"Because the student may have to do other things",
+			"Because the student need block out time for study and will not be distracted by the Internet"
+		],
+		"result": "Because the student need block out time for study and will not be distracted by the Internet"
+	}, {
+		"title": "What is the passage mainly about.",
+		"option": ["It’s lucky to have a good roommate", "How to be a good roommate",
+			"It’s good to be respectful to a roommate",
+			"Living with a roommate can be complicated and overwhelming"
+		],
+		"result": "How to be a good roommate"
+	}, {
+		"title": "Which of the following in NOT mentioned in the passage.",
+		"option": ["Respect your roommate’s need for space", "Respect your roommate as a person",
+			"Respect your roommate’s stuff", "Respect your roommates’ hobbies"
+		],
+		"result": "Respect your roommates’ hobbies"
+	}, {
+		"title": "Which of the following is NOT correct according to the passage?.",
+		"option": ["No matter how annoyed you are, you still must be kind",
+			"Respect your roommate’s requests, even if you think they are silly",
+			"Being flexible and adaptable is needed",
+			"Be honest about what you need as a roommate but do not ask your roommate to do the same"
+		],
+		"result": "Be honest about what you need as a roommate but do not ask your roommate to do the same"
+	}, {
+		"title": "How many suggestions are made for being a good roommate.",
+		"option": ["3", "4", "5", "6"],
+		"result": "6"
+	}, {
+		"title": "Which situation is NOT mentioned in the passage.",
+		"option": ["Your roommate may talk to you about their personal life",
+			"Your roommate may talk to you about things they’d like to change in the room",
+			"Your roommate may communicate with you via emails",
+			"Your roommate may communicate a million things to you without opening their mouth"
+		],
+		"result": "Your roommate may communicate with you via emails"
+	}, {
+		"title": "How many tips are suggested in this passage?.",
+		"option": ["3", "4", "5", "6"],
+		"result": "3"
+	}, {
+		"title": "What does the word “electives” mean in Paragraph 2.",
+		"option": ["Selections", "Having the power to elect", "Working by means of election.",
+			"Courses chosen by students rather than compulsory ones"
+		],
+		"result": "Courses chosen by students rather than compulsory ones"
+	}, {
+		"title": "Which of the following is NOT mentioned as to getting out to date.",
+		"option": ["Meeting someone at a party", "Meeting someone in a library",
+			"Meeting someone in protests or concerts", "Meeting someone through work"
+		],
+		"result": "Meeting someone in a library"
+	}, {
+		"title": "Why is it better for students to keep the dates casual?.",
+		"option": [
+			"Because students are busy with their study and more time should be given to get to know each other",
+			"Because students are still economically dependent",
+			"Because romantic dates are money-consuming", "Because the romantic dates are too serious"
+		],
+		"result": "Because students are busy with their study and more time should be given to get to know each other"
+	}, {
+		"title": "What is the possible title for this passage.",
+		"option": ["Romantic Love or Casual Love? ", "Campus Love", "Tips for Looking for Love in College",
+			"Dating on Campus"
+		],
+		"result": "Tips for Looking for Love in College"
+	}, {
+		"title": "What is the passage mainly about.",
+		"option": ["It’s lucky to have healthy parents", "Love meant flowers, gifts and sweet kisses",
+			"Parental love", "What love is"
+		],
+		"result": "What love is"
+	}, {
+		"title": "Which of the following is NOT true according to the passage?.",
+		"option": ["The author’s parents never act in the romantic ways that she read in books or saw on TV",
+			"It is easy for the author’s father to lose his temper because of tiring work",
+			"The author’s mother had to stay with her husband in the hospital for a month",
+			"Both the author’s father and mother had illnesses"
+		],
+		"result": "Both the author’s father and mother had illnesses"
+	}, {
+		"title": "Which of the following is NOT mentioned in the passage?.",
+		"option": [
+			"After they were back from the hospital, her mother helped her father walk slowly on the country road every day",
+			"Her father recovered in two months",
+			"Her father had been more gentle after getting back from the hospital",
+			"Her parents love walking on the country road"
+		],
+		"result": "Her father recovered in two months"
+	}, {
+		"title": "What is the meaning of “thread” in Paragraph 7.",
+		"option": ["A thin strand of nylon, cotton, etc", "A line of thought connecting parts of a story",
+			"A very thin thing", "To pass thread, string, etc. through"
+		],
+		"result": "A thin strand of nylon, cotton, etc"
+	}, {
+		"title": "Which of the following shows that one is in deep love with his /her spouse?.",
+		"option": ["Sending flowers every day", "Expressing words such as “I love you” to each other",
+			"Taking care of each other while in sickness",
+			"Giving gifts or sweet kisses to each other every day"
+		],
+		"result": "Taking care of each other while in sickness"
+	}, {
+		"title": "What does the word “incredible” (Line 2, Para.1) mean?.",
+		"option": ["Wonderful", "Incredulous", "Despicable", "Indifferent"],
+		"result": "Wonderful"
+	}, {
+		"title": "Which is NOT the benefit mentioned by the author.",
+		"option": ["Volunteering itself", "Making lifelong friends", "Traveling around the world",
+			"Making a lot of money"
+		],
+		"result": "Making a lot of money"
+	}, {
+		"title": " According to Paragraph 2, volunteering is rewarding because.",
+		"option": ["you’re able to impact others’ lives", "seeing how you change others’ lives is powerful",
+			"you can help those in need", "All of the above"
+		],
+		"result": "All of the above"
+	}, {
+		"title": "Which of the following is FALSE?.",
+		"option": ["Many countries need volunteers to help",
+			"Seeing the world is the only reason why so many people volunteer abroad",
+			"You could help ease poverty in rural India",
+			"A number of volunteers met their new best friend when working on a project"
+		],
+		"result": "Seeing the world is the only reason why so many people volunteer abroad"
+	}, {
+		"title": "Where may you NOT read the passage?.",
+		"option": ["Online forum", "College newspaper", "Volunteer website", "Science journal"],
+		"result": "Science journal"
+	}, {
+		"title": "Which of the following is true?.",
+		"option": ["Volunteers can’t help those less fortunate",
+			"People have realized the benefits of volunteering in career",
+			"Volunteering shows that volunteers are willing to make themselves useful",
+			"Volunteering can definitely help you land a job"
+		],
+		"result": "People have realized the benefits of volunteering in career"
+	}, {
+		"title": "The phrase “give an edge” (Line 1, Para. 3) most probably means____.",
+		"option": ["contributes to", "is bad for", "is against", "gives back to"],
+		"result": "contributes to"
+	}, {
+		"title": "Why can volunteering help people find a job?.",
+		"option": ["Because volunteers have a perfect resume",
+			"Because it shows employers how positive volunteers are and how much they care about their own community",
+			"Because employers love to hire people without a high-school diploma",
+			"Because employers love to hire people who live in rural areas"
+		],
+		"result": "Because it shows employers how positive volunteers are and how much they care about their own community"
+	}, {
+		"title": "According to a famous journalist, why should college students take a gap year for volunteering?.",
+		"option": ["Because they have a lot of time", "Because they are young",
+			"Because it can help build them for the real world",
+			"Because they can go to communities that are the same to their own"
+		],
+		"result": "Because it can help build them for the real world"
+	}, {
+		"title": "What is the passage primarily concerned about.",
+		"option": ["Volunteering improves volunteers’ health condition",
+			"Volunteering changes volunteers’ mental condition",
+			"Volunteering is all about giving back to different communities",
+			"Volunteering helps people start ahead in career"
+		],
+		"result": "Volunteering helps people start ahead in career"
+	}, {
+		"title": "How many tips are suggested in this passage?.",
+		"option": ["3", "4", "5", "6"],
+		"result": "4"
+	}, {
+		"title": "What is the meaning of the word “unique” in the second paragraph?.",
+		"option": ["Funny", "Strange", "Universal", "Special"],
+		"result": "Special"
+	}, {
+		"title": "Why do Chinese order some food of the guests’ hometown cuisine?.",
+		"option": ["Because people from different regions favor vastly varied flavors",
+			"Because not all the people like spicy food", "Because people can enjoy more types of foods",
+			"Because it shows great respect to the guests"
+		],
+		"result": "Because it shows great respect to the guests"
+	}, {
+		"title": "What can we infer from the passage?.",
+		"option": [" Chinese are all rich", "When you host an event, you should also prepare to pay for it",
+			"Chinese prefer to drink beer because it’s good for health",
+			"Don’t feel pressured to eat everything at the table"
+		],
+		"result": "When you host an event, you should also prepare to pay for it"
+	}, {
+		"title": "Who may this passage be written for.",
+		"option": ["Young Chinese college students", "Waiters and waitress", "Business people",
+			"Foreigners who want to know more about China"
+		],
+		"result": "Foreigners who want to know more about China"
+	}, {
+		"title": "What is the passage mainly about?.",
+		"option": ["How to make and eat dumplings", "How much Chinese people love eating dumplings",
+			"The symbolic meanings of dumpling", "What Chinese eat in the Spring Festival"
+		],
+		"result": "The symbolic meanings of dumpling"
+	}, {
+		"title": "What does the word “auspicious” (Line 6, Para. 4) mean?.",
+		"option": ["Terrible", "Lucky", "Strange", "Common"],
+		"result": "Lucky"
+	}, {
+		"title": "Which of the following is NOT correct according to the passage?.",
+		"option": ["There’re many ways of cooking dumplings", " Dumpling is seen as a good sign of harmony",
+			"Southerners don’t eat dumplings", "People have many interesting ways to eat dumplings"
+		],
+		"result": "Southerners don’t eat dumplings"
+	}, {
+		"title": "Why did the author write this passage?.",
+		"option": ["To introduce the making of dumplings", "To introduce how to eat dumplings",
+			"To appeal to people to eat dumplings",
+			"To introduce the origin and the symbolic meanings of dumpling"
+		],
+		"result": "To introduce the origin and the symbolic meanings of dumpling"
+	}, {
+		"title": "What may the author talk about next?.",
+		"option": ["Other popular foods’ symbolic meanings", "Traditions and customs of Spring Festival",
+			"The author’s personal story with eating dumplings", "Why people love dumplings"
+		],
+		"result": "Other popular foods’ symbolic meanings"
+	}],
+	"词汇结构": [{
+		"title": "The Russian girl knows well about Spring Festival because she grew up with Chinese_____.",
+		"option": ["custom", "travel", "journey", "festival"],
+		"result": "custom"
+	}, {
+		"title": "No matter how much one has experienced, he can’t _____________ his knowledge without reading books.",
+		"option": ["enable", "able", "enrich", "rich"],
+		"result": "rich"
+	}, {
+		"title": "The ancient cultural heritages carried the __________ of our nation’s progress.",
+		"option": ["globalization", "global", "civil", "civilization"],
+		"result": "civilization"
+	}, {
+		"title": "Please scan the QR ________ to complete the payment.",
+		"option": ["number", "code", "numbers", "codes"],
+		"result": "code"
+	}, {
+		"title": "Table __________ is very important for socializing.",
+		"option": ["setting", "environment", "taboo", "etiquette"],
+		"result": "etiquette"
+	}, {
+		"title": "A ______phase of one’s life is extremely successful and likely to be remembered for a long time.",
+		"option": ["glorious", "glory", "shameful", "shame"],
+		"result": "glorious"
+	}, {
+		"title": "To ______ into work means to undertake or start on work with great enthusiasm.",
+		"option": ["go", "see", "walk", "dive"],
+		"result": "dive"
+	}, {
+		"title": " If someone is extremely furious, we can tell him/her to _________.",
+		"option": ["chill out", "cheer up", "scream out ", "cry out"],
+		"result": "chill out"
+	}, {
+		"title": "The stars in the universe are ____________.",
+		"option": ["many", "much", "countable", "innumerable"],
+		"result": "innumerable"
+	}, {
+		"title": "A business man is always interested in gaining financial __________ from something.",
+		"option": ["money", "debt", "deficit", "profit"],
+		"result": "profit"
+	}, {
+		"title": "The judge _______ that Miller had no previous criminal record.",
+		"option": ["denote", "note", "denoted", "noted"],
+		"result": "noted"
+	}, {
+		"title": "Please give us plenty of notice if you have to cancel a/an _______.",
+		"option": ["appointment", "disappointment", "apartment", "conclusion"],
+		"result": "appointment"
+	}, {
+		"title": "A good teacher can __________ his/her students to work harder.",
+		"option": ["bestow", "motivate", "challenge", "interact"],
+		"result": "motivate"
+	}, {
+		"title": "Recovery can’t be ______ unless more jobs are created.",
+		"option": ["hindered", "sustained", "abandoned", "saluted"],
+		"result": "sustained"
+	}, {
+		"title": "Susan is a/an __________ person. We never know what she will do next.",
+		"option": ["packing", "important", "impulsive", "adventure"],
+		"result": "important"
+	}, {
+		"title": "If you renew an activity, you ______ it again.",
+		"option": ["began", "begin", "begins", "accumulate"],
+		"result": "begin"
+	}, {
+		"title": "A worthwhile job is something that is________.",
+		"option": ["fear", "important", "interact", "insignificant"],
+		"result": "important"
+	}, {
+		"title": "He ______ my remark and carried on working...",
+		"option": ["appeal", "a pack of lies ", "ignored", "well-written"],
+		"result": "ignored"
+	}, {
+		"title": "Yuan Longping has made huge ____________ to saving people from famine.",
+		"option": ["volunteer", "adventure", "contribution", "beneficial"],
+		"result": "contribution"
+	}, {
+		"title": "Her wrists and ankles were slim and __________.",
+		"option": ["recover", "delicate", "recovered", "tenderly"],
+		"result": "delicate"
+	}, {
+		"title": "All countries in the world should _________ with each other in fighting poverty.",
+		"option": ["cooperate", "immigrate", "emigrate", "critical"],
+		"result": "cooperate"
+	}, {
+		"title": "We encourage students to________ more with others in activities.",
+		"option": ["charm", "cooperate", "convert", "socialize"],
+		"result": "socialize"
+	}, {
+		"title": "The variation of our custom in the world makes the culture more_______.",
+		"option": ["dull", "insignificant", "colorful", "achievable"],
+		"result": "colorful"
+	}, {
+		"title": "Love and romance have always been the ______ theme of modern literature.",
+		"option": ["thrilling", "eventual", "poetic", "boring"],
+		"result": "poetic"
+	}, {
+		"title": "The new smartphone is going to be released which is ______ to people next week.",
+		"option": ["suitable", "available", "accumulative", "replaced"],
+		"result": "available"
+	}, {
+		"title": "We are supposed to _____ our traditional culture.",
+		"option": ["distribute", "respect", "neglect", "criticize"],
+		"result": "respect"
+	}, {
+		"title": "She almost ________ to death in the thick fumes.",
+		"option": ["cried", "smiled", "chocked", "starved"],
+		"result": "chocked"
+	}, {
+		"title": "He ______ to having a secret admiration for his opponent.",
+		"option": ["conceal", "concealed", "confess", "confessed"],
+		"result": "confessed"
+	}, {
+		"title": "We need some ___________ to clear up our classroom.",
+		"option": ["volunteer", "volunteers", "employees", "employers"],
+		"result": "volunteers"
+	}, {
+		"title": "In face of the deadly disease, people are united in the belief that experts around the world should __________ with each other for the final success.",
+		"option": ["cooperated", "cooperate", "fought", "fight"],
+		"result": "cooperate"
+	}, {
+		"title": "She made a speech to __________ smoking among teenagers.",
+		"option": ["discouraged", "discourage", "encouraged", "encourage"],
+		"result": "discourage"
+	}, {
+		"title": "A good diet is ________ to health.",
+		"option": ["harmful", "harm", "beneficial", "benefit"],
+		"result": "beneficial"
+	}, {
+		"title": "When she finished painting, she stepped back to check the ________ effect.",
+		"option": ["all", "part", "overall", "partial"],
+		"result": "overall"
+	}, {
+		"title": "He was typically modest about his ___________ , therefore everyone like him.",
+		"option": ["experience", "achievement", "failure", "work"],
+		"result": "achievement"
+	}, {
+		"title": "They greeted the newcomer with _______ salutations.",
+		"option": ["indifferent", "friendly", "cold", "warmly"],
+		"result": "friendly"
+	}, {
+		"title": "An extroverted person tends to be _______.",
+		"option": ["lively and confident", "quiet and shy", "timid and sensitive", "slim and delicate"],
+		"result": "lively and confident"
+	}, {
+		"title": "A conservative mindset tends to be ________.",
+		"option": ["a kind of outdated behavior", "a set of conventional fixed ideas", "an outgoing attitude",
+			"a good habit"
+		],
+		"result": "a set of conventional fixed ideas"
+	}, {
+		"title": "To involve in children’s education means that parents ____________.",
+		"option": ["do not pay attention to their children", "are busy with their own work",
+			"take part in children′s growth", "consider everything for their children"
+		],
+		"result": "take part in children′s growth"
+	}, {
+		"title": "A person with global perspective will think __________.",
+		"option": ["locally", "globally", "nationally", "regionally"],
+		"result": "globally"
+	}, {
+		"title": "A sentimental woman tends to be _____.",
+		"option": ["sensible", "rational", "emotional", "irrational"],
+		"result": "emotional"
+	}, {
+		"title": "The strength of doing physical exercise is ______.",
+		"option": ["getting tired and exhausted", "keeping fit", "eating balanced diet", " walking every day"],
+		"result": "keeping fit"
+	}, {
+		"title": "To make random investigation is to choose the sample_______.",
+		"option": ["without any particular plan or pattern", "on purpose", "for free", "with assistance"],
+		"result": "without any particular plan or pattern"
+	}, {
+		"title": "He said that he would definitely pass the exam but _________.",
+		"option": ["make it", "failed", "succeed", "fail"],
+		"result": "failed"
+	}, {
+		"title": "When someone recites a poem or other piece of writing, they say it______ after they have learned it.",
+		"option": ["aloud", "silently", "emotionally", "proudly"],
+		"result": "aloud"
+	}, {
+		"title": "Regular visits from a social worker can be of immense value to____.",
+		"option": ["healthy children", "young people", "old people living alone", "middle-aged people"],
+		"result": "old people living alone"
+	}, {
+		"title": "Nicholas frankly admitted that the report being questioned was______.",
+		"option": ["appealing", "a pack of lies", "well-written", "bad choice"],
+		"result": "a pack of lies"
+	}, {
+		"title": "Police have already _____ 10 murder suspects.",
+		"option": ["seen", "arrested", "identified", "pinned"],
+		"result": "identified"
+	}, {
+		"title": "Children under 14 coming inside the park must be _______ by an adult.",
+		"option": ["company", "accompany", "accompanied", "with"],
+		"result": "accompanied"
+	}, {
+		"title": "He had served the family _____ for 40 years.",
+		"option": ["faith", "faithful", "faithfully", "unfaithfully"],
+		"result": "faithfully"
+	}, {
+		"title": "She ______ a cute rabbit on the sweater as a gift for her daughter.",
+		"option": ["weave", "wove", "woven", "weaving"],
+		"result": "weave"
+	}, {
+		"title": "The war has _____ the nation in two separate countries.",
+		"option": ["spoil", "spoiled", "split", "splits"],
+		"result": "splits"
+	}, {
+		"title": "We used to cut up ______ blankets to make sleeping bags for the children.",
+		"option": ["wear", "wears", "wore", "worn"],
+		"result": "worn"
+	}, {
+		"title": "If you want something that is not on the menu, the staff are happy to ______.",
+		"option": ["oblige", "obliges", "obliged", "obliging"],
+		"result": "oblige"
+	}, {
+		"title": "She was blossoming like the flowers nourished _______ by her care.",
+		"option": ["harshly", "tenderly", "warmly", "badly"],
+		"result": "tenderly"
+	}, {
+		"title": "She was knitting a cloth with gold and silver _____.",
+		"option": ["thread", "needle", "cloth", "line"],
+		"result": "thread"
+	}, {
+		"title": "Astronauts want to _______ the other planet that is suitable for human’s living.",
+		"option": ["see", "go", "buy", "explore"],
+		"result": "explore"
+	}, {
+		"title": "He laid the _____________ of the science of bacteriology.",
+		"option": ["foundation", "finding", "finds", "fountain"],
+		"result": "foundation"
+	}, {
+		"title": "Traveling is full of ____________. All you need is being brave.",
+		"option": ["road", "adventure", "adventures", "risks"],
+		"result": "adventure"
+	}, {
+		"title": "Schools must meet the _______ of new technology.",
+		"option": ["arrive", "arriving", "challenging", "challenge"],
+		"result": "challenge"
+	}, {
+		"title": "It has not yet ________ settled.",
+		"option": ["definitely", "definite", "define", "definition"],
+		"result": "definitely"
+	}, {
+		"title": "You should ________ yourself with the knowledge you can acquire.",
+		"option": ["excuse", "equip", "excuses", "equips"],
+		"result": "equip"
+	}, {
+		"title": "Young people need to be given the _______ to make a difference in the world.",
+		"option": ["challenge", "risk", "adventure", "opportunity"],
+		"result": "opportunity"
+	}, {
+		"title": "The sociologist studies the complex way in which people ____________ with each other at parties.",
+		"option": ["say", "talk", "dance", "interact"],
+		"result": "interact"
+	}, {
+		"title": " Some people consider pointing with index finger is very_____.",
+		"option": ["offend", "offended", "offends", "offensive"],
+		"result": "offensive"
+	}, {
+		"title": "I ______ my belief into Buddhism.",
+		"option": ["convert", "converting", "converted", "converts"],
+		"result": "convert"
+	}, {
+		"title": "This horror movie of a natural disaster is very ______.",
+		"option": ["terrified", "amused", "terrifying", "amusing"],
+		"result": "terrifying"
+	}, {
+		"title": "He seemed to regard his scarf as a good luck ______.",
+		"option": ["charms", "symbol", "symbols", "charm"],
+		"result": "charm"
+	}, {
+		"title": "The travel company led the way in ______ skiing for all ages.",
+		"option": ["popularizes", "popularize", "popularizing", "popularizing"],
+		"result": "popularizing"
+	}, {
+		"title": "Some culture indicates that using salt can ward off ______.",
+		"option": ["spirit", "spirits", "devil", "devils"],
+		"result": "devils"
+	}, {
+		"title": "He does not ______ that he has done anything wrong.",
+		"option": ["exclaim", "acclaim", "claim", "acknowledge"],
+		"result": "acknowledge"
+	}, {
+		"title": "Experts like Zhong Nanshan have played a(n) ______ role in containing the spread of COVID-19.",
+		"option": ["significant", "signified", "signifying", "significance"],
+		"result": "significant"
+	}, {
+		"title": "It’s our responsibility to ______ for a better community.",
+		"option": ["voluntary", "volunteer", "voluntarily", "volunteering"],
+		"result": "volunteer"
+	}, {
+		"title": "College time is a(n) ______ time that sets the cornerstone of one's future career.",
+		"option": ["most", "basic", "critical", "irrational"],
+		"result": "critical"
+	}, {
+		"title": "Doing exercises regularly is ______ in the long term.",
+		"option": ["benefit", "beneficial", "beneficiary", "beneficially"],
+		"result": "beneficial"
+	}, {
+		"title": "Without ______, a person is like a walking dead.",
+		"option": ["self-esteem", "ego", "self", "esteem"],
+		"result": "self-esteem"
+	}, {
+		"title": "Being professional means being ______ .",
+		"option": ["effect", "effective", "affect", "affection"],
+		"result": "effective"
+	}],
+	"听力":[{
+		"title": "",
+		"option": ["Susan Brown", "Susan Murphy", "Jack Murphy", "Jack Brown"],
+		"result": "Susan Murphy"
+	},{
+		"title": "",
+		"option": ["Alex Scott", "Angela Cooper", "Alex Cooper", "Alex Smith"],
+		"result": "Alex Cooper"
+	},{
+		"title": "",
+		"option": ["Alberto", "Gonzalz", "Gonzalez", "Albert"],
+		"result": "Gonzalez"
+	},{
+		"title": "",
+		"option": ["Nora", "Ingalls", "Ingall", "Nola"],
+		"result": "Ingalls"
+	},{
+		"title": "",
+		"option": ["Carter Reed", "Addy Reed", "Carter Hughes ", "Addy Hughes"],
+		"result": "Addy Hughes"
+	},{
+		"title": "",
+		"option": ["Make an appointment for an interview", "Send in an application letter", "Fill in an application form", "Make a brief self-introduction on the phone"],
+		"result": "Send in an application letter"
+	},{
+		"title": "",
+		"option": ["Someone having a college degree in advertising", "Someone experienced in business management", "Someone ready to take on more responsibilities", "Someone willing to work beyond regular hours"],
+		"result": "Someone willing to work beyond regular hours"
+	},{
+		"title": "",
+		"option": ["Travel opportunities", "Handsome pay", "Prospects for promotion", "Flexible working hours"],
+		"result": "Travel opportunities"
+	},{
+		"title": "",
+		"option": ["It depends on the working hours", "It is about 500 pounds a week", "It will be set by the Human Resources", "It is to be negotiated"],
+		"result": "It is to be negotiated"
+	},{
+		"title": "",
+		"option": ["She is enjoying her study at this moment", "She is enjoying her campus life at this moment", "She is feeling very well at this moment", "She is not feeling very well at this moment"],
+		"result": "She is not feeling very well at this moment"
+	},{
+		"title": "",
+		"option": ["The course is easy and there is no extra work to do", "The course is easy but there is too much work to do", "The course is difficult but there is no work to do", "The course is difficult and there is too much work to do"],
+		"result": "The course is difficult and there is too much work to do"
+	},{
+		"title": "",
+		"option": ["She dislikes her roommates", "She is unable to sleep well", "She has no chance to make friends", "She still gets lonely sometimes"],
+		"result": "She still gets lonely sometimes"
+	},{
+		"title": "",
+		"option": ["To join student organizations", "To make friends", "To spend more time on management", "To go and see the doctor"],
+		"result": "To join student organizations"
+	},{
+		"title": "",
+		"option": ["Freshmen", "Sophomores", "Undergraduates", "Postgraduates"],
+		"result": "Freshmen"
+	},{
+		"title": "",
+		"option": ["Sad", "Excited", "Nervous", "Happy"],
+		"result": "Nervous"
+	},{
+		"title": "",
+		"option": ["450", "540", "1,300", "1,700"],
+		"result": "450"
+	},{
+		"title": "",
+		"option": ["Indoor yoga", "Movie events", "Parties and trips", "All of the above"],
+		"result": "Parties and trips"
+	},{
+		"title": "",
+		"option": ["7:45", "7:15", "8:45", "8:15"],
+		"result": "8:15"
+	},{
+		"title": "",
+		"option": ["8:45 pm", "8:15 pm", "7:45 pm", "7:15 pm"],
+		"result": "7:45 pm"
+	},{
+		"title": "",
+		"option": ["7:30 pm", "6:30 pm", "7:00 pm", "6:00 pm"],
+		"result": "6:00 pm"
+	},{
+		"title": "",
+		"option": ["3:35 pm", "2:35 pm", "3:25 pm", "2:25 pm"],
+		"result": "2:35 pm"
+	},{
+		"title": "",
+		"option": ["8:00", "8:15", "8:30", "8:45"],
+		"result": "8:00"
+	},{
+		"title": "",
+		"option": ["To listen to the music", "To see a film", "To dance", "To watch a play"],
+		"result": "To dance"
+	},{
+		"title": "",
+		"option": ["Because she doesn’t have a partner", "Because she wants to go with Donny", "Because she has an appointment with Donny", "Because she doesn’t want to be the third wheel"],
+		"result": "Because she doesn’t want to be the third wheel"
+	},{
+		"title": "",
+		"option": ["A bright light bulb", "The wheel of a car", "The third person joining a couple in a social context", "None of the above"],
+		"result": "The third person joining a couple in a social context"
+	},{
+		"title": "",
+		"option": ["At 6:30 pm", "At 5:00 pm", "At 7:30 pm", "At 7:00 pm"],
+		"result": "At 7:30 pm"
+	},{
+		"title": "",
+		"option": ["At 5:00 pm", "At 7:00 pm", "At 6:55 pm", "At 7:05 pm"],
+		"result": "At 6:55 pm"
+	},{
+		"title": "",
+		"option": ["One", "Five", "Six", "Seven"],
+		"result": "Five"
+	},{
+		"title": "",
+		"option": ["Because they all have different personalities", "Because they all have similar features", "Because they all range in age", "Because they all have different ages"],
+		"result": "Because they all have different personalities"
+	},{
+		"title": "",
+		"option": ["Sister and brother", "Friends", "Mother and son", "Father and daughter"],
+		"result": "Mother and son"
+	},{
+		"title": "",
+		"option": ["They often ask her for advice", "They want the woman to give them a little bit of her knowledge", "The woman take care of them when her mother is ou", "All of the above"],
+		"result": "All of the above"
+	},{
+		"title": "",
+		"option": ["She is a 7-year-old girl in the southern US states of Boston", "She created a small table where she sells a cold drink and bread", "She has a health problem that will require surgery", "She sells cold drinks for more than a dollar and actually raises much money"],
+		"result": "She has a health problem that will require surgery"
+	},{
+		"title": "",
+		"option": ["She was interested in making money", "She was going to use the money to buy toys and pretty shoes", "She was just to do something for fun", "All of the above"],
+		"result": "All of the above"
+	},{
+		"title": "",
+		"option": ["Health insurance", "Herself", "People’s donation", "Doctors"],
+		"result": "People’s donation"
+	},{
+		"title": "",
+		"option": ["She wants to know what happened", "She wants to go into the stadium", "She wants to know about the situation", "She wants to find her way"],
+		"result": "She wants to go into the stadium"
+	},{
+		"title": "",
+		"option": ["He doesn’t want to wait for a long time", "He is asking for the woman’s permission", "He is asking for a solution", "He doesn’t mind waiting for a long time"],
+		"result": "He doesn’t want to wait for a long time"
+	},{
+		"title": "",
+		"option": ["Whether the meeting is certainly to be held on Monday", "Who has to attend the meeting", "What they are going to discuss at the meeting", "Where the meeting is to be held"],
+		"result": "What they are going to discuss at the meeting"
+	},{
+		"title": "",
+		"option": ["movie", "lecture", "A play", "A speech"],
+		"result": "A play"
+	},{
+		"title": "",
+		"option": ["He visited the TV Tower last June", "He has visited the TV Tower twice", "He has visited the TV Tower once", "He will visit the TV Tower in June"],
+		"result": "He has visited the TV Tower once"
+	},{
+		"title": "",
+		"option": ["She’s visiting an office", "She’s lying on the beach in Krabi Island", "She’s on holiday with her friends", "She’s visiting a friend"],
+		"result": "She’s lying on the beach in Krabi Island"
+	},{
+		"title": "",
+		"option": ["She met a friend", "She met a man from Germany", "She went to teach at the school", "She went to the beach"],
+		"result": "She met a man from Germany"
+	},{
+		"title": "",
+		"option": ["He will travel in China", "He will work in China", "He will be a volunteer in China", "He will be on his business trip"],
+		"result": "He will be a volunteer in China"
+	},{
+		"title": "",
+		"option": ["His phone battery is out of charge", "He wants to talk with Susan face to face", "He has something to do", "He is on his business trip"],
+		"result": "His phone battery is out of charge"
+	},{
+		"title": "",
+		"option": ["He wishes he had been there", "He likes to collect bits and pieces from the world", "He likes to have souvenir from friends", "He wants to have something special"],
+		"result": "He likes to collect bits and pieces from the world"
+	},{
+		"title": "",
+		"option": ["He was laid off last year and did not know what to do with himself", "He was interested in the computer classes", "There was a job vacancy at the day centre", "He was asked to help the elderly to use digital technologies"],
+		"result": "He was laid off last year and did not know what to do with himself"
+	},{
+		"title": "",
+		"option": ["A lot of old people pay no attention to the use of digital technologies", "A few of them are a bit scared at first because they’ve never used a computer", "Nothing can be confusing for old people with no computer skills", "The elderly think they’re too old to learn something new"],
+		"result": "The elderly think they’re too old to learn something new"
+	},{
+		"title": "",
+		"option": ["It’s very challenging but rewarding", "It’s very tiring but interesting", "It’s very confusing and tiring", "It’s very thrilling and interesting"],
+		"result": "It’s very challenging but rewarding"
+	},{
+		"title": "",
+		"option": ["Learning communication skills", "Getting useful living experience", "Learning to be more patient", "Improving his practical skills"],
+		"result": "Learning to be more patient"
+	},{
+		"title": "",
+		"option": ["Grandfathers", "Uncles", "Stepfathers", "Boy students"],
+		"result": "Boy students"
+	},{
+		"title": "",
+		"option": ["It can help a child succeed in school", "It can increase the child’s chances of finishing high school", "It can reduce the child’s risk of drug abuse", "All of the above"],
+		"result": "All of the above"
+	},{
+		"title": "",
+		"option": ["At least one fully day during the school year", "At best one and a half day during the school year", "One week during the school year", "The whole school year"],
+		"result": "At least one fully day during the school year"
+	},{
+		"title": "",
+		"option": ["She is interested in the Melbourne Cup", "She likes the hat", "She doesn’t want to go to the Melbourne Cup", "She doesn’t like the hat"],
+		"result": "She doesn’t want to go to the Melbourne Cup"
+	},{
+		"title": "",
+		"option": ["She is thoughtful", "She is honest", "She is creative", "She is humble"],
+		"result": "She is thoughtful"
+	},{
+		"title": "",
+		"option": ["He doesn’t think the woman will make it", "He is surprised", "He is confused", "He is depressed"],
+		"result": "He doesn’t think the woman will make it"
+	},{
+		"title": "",
+		"option": ["She doesn’t believe in Sam", "Sam never apologizes", "She believes in Sam", "Sam won’t apologize to her"],
+		"result": "She doesn’t believe in Sam"
+	},{
+		"title": "",
+		"option": ["The man is not interested in the topic", "The man gets lost in his way", "The man is showing his confusion", "The man wants to keep up with the woman"],
+		"result": "The man is showing his confusion"
+	},{
+		"title": "",
+		"option": ["A misshapen glass", "A misshapen bottle", "A misshapen vase", "A misshapen bowl"],
+		"result": "A misshapen vase"
+	},{
+		"title": "",
+		"option": ["It is made of glass", "It is made of china", "It is made of metal", "It is made of plastic"],
+		"result": "It is made of glass"
+	},{
+		"title": "",
+		"option": ["Because she wants credit", "Because she is interested in folk art", "Because she wants to make a vase by herself", "Because her father hopes her to do so"],
+		"result": "Because she is interested in folk art"
+	},{
+		"title": "",
+		"option": ["It means people’s art", "It refers to traditional crafts", "It means technologies", "It refers to glassblowing"],
+		"result": "It refers to traditional crafts"
+	},{
+		"title": "",
+		"option": ["It only exists in the context in which it was produced", "It has little influence on people from other places", "It has something significant to be studied", "It has influence beyond its cultural territory and the context in which it was produced"],
+		"result": "It has influence beyond its cultural territory and the context in which it was produced"
+	},{
+		"title": "",
+		"option": ["Greece", "Japan", "Bulgaria", "India"],
+		"result": "Bulgaria"
+	},{
+		"title": "",
+		"option": ["To avoid embarrassment", "To show cooperation", "To indicate respect", "To communicate easily"],
+		"result": "To avoid embarrassment"
+	},{
+		"title": "",
+		"option": ["People from Southern Albania", "People from India", "People from the Middle East", "People from Japan"],
+		"result": "People from the Middle East"
+	},{
+		"title": "",
+		"option": ["Because we don’t belong to the same culture", "Because we have the same customs", "Because we belong to different areas", "Because we don’t have the same origin"],
+		"result": "Because we don’t belong to the same culture"
+	},{
+		"title": "",
+		"option": ["Traditional greeting norms are changed now due to the pandemic", "Different countries have different ways of greeting", "In Europe, kissing is a common way to greet people", "In sports team, high fives is the greeting no matter what your cultural background is"],
+		"result": "Traditional greeting norms are changed now due to the pandemic"
+	},{
+		"title": "",
+		"option": ["Handshakes and hugs", "Kisses on the cheek or air kisses", "Non-contact greetings", "High fives"],
+		"result": "Handshakes and hugs"
+	},{
+		"title": "",
+		"option": ["France", "Switzerland", "Italy", "All of the above"],
+		"result": "All of the above"
+	}]
+}

@@ -1,0 +1,467 @@
+{
+	"单选": [{
+			"title": "以下将素材放置到时间线窗口中描述正确的是哪项？",
+			"option": [
+				"按住鼠标左键将其拖曳到时间线窗口中",
+				"使用快捷键Ctrl+V",
+				"双击项目窗口中的素材文件",
+				"在时间线窗口中单击鼠标右键"
+			],
+			"result": "按住鼠标左键将其拖曳到时间线窗口中"
+		},
+		{
+			"title": "在After effect中，按哪人键可以查看所有帧数？",
+			"option": ["A", "P", "S", "U"],
+			"result": "D"
+		},
+		{
+			"title": "要让蒙版边缘产生由不透明到透明的柔和过渡，需要调节的蒙版属性是？",
+			"option": ["蒙版不透明", "蒙版路径", "蒙版扩展", "蒙版羽化"],
+			"result": "蒙版羽化"
+		},
+		{
+			"title": "新建固态层的快捷键是？",
+			"option": ["Shift + Y", "Shift + K", "Ctrl + K", "Ctrl + Y"],
+			"result": "Ctrl + Y"
+		},
+		{
+			"title": "下面是 AE 文件默认存储的格式文件？",
+			"option": ["AVI", "GIF格式文件", "AEP", "PSD"],
+			"result": "AEP"
+		},
+		{
+			"title": "下列那些信息不能用于追踪参考？",
+			"option": ["颜色饱和度信息", "RGB色彩信息", "深度信息", "亮度信息"],
+			"result": "深度信息"
+		},
+		{
+			"title": "在After effect中，引入序列静态图片时，应 ()",
+			"option": [
+				"使用“导入*”合成",
+				"直接双击序列图像的第一个文件即可引入",
+				"需要选择全部序列图像的名称",
+				"选择序列文件的第一个文件后，需要勾选”序列”选项，然后单击“打开”按钮"
+			],
+			"result": "选择序列文件的第一个文件后，需要勾选”序列”选项，然后单击“打开”按钮"
+		},
+		{
+			"title": "当素材或对象被放大超过窗口的显示范围时，可以选择哪种工具在窗口中进行移动？",
+			"option": ["手形工具", "选择工具", "钢笔工具", "轴心点工具"],
+			"result": "手形工具"
+		},
+		{
+			"title": "可以在下列哪个窗口中通过调整参数精确控制合成中的对象？",
+			"option": ["时间线窗口", "合成窗口", "Project窗口", "Info窗口"],
+			"result": "时间线窗口"
+		},
+		{
+			"title": "为特效的效果点设置动画后，下列哪个窗口能够对特效运动路径进行编辑？",
+			"option": ["图层窗口", "效果 Controls窗", "合成窗口", "时间线窗口"],
+			"result": "效果 Controls窗"
+		},
+		{
+			"title": "在After Effec中，按下大写锁定键后",
+			"option": ["素材更新,其它不变", "层和合成图像窗口更新.其它不变", "层更新,其它不变", "所有素材、层、合成图像窗口都停止更新"],
+			"result": "所有素材、层、合成图像窗口都停止更新"
+		},
+		{
+			"title": "在After Effects的项目文件中，包括的素材文件是？",
+			"option": ["仅是一个参考指向", "既是素材本身又是参考指向", "素材文件本身", "既不是素材本身又不是参考指向"],
+			"result": "仅是一个参考指向"
+		},
+		{
+			"title": "使用快捷键时，如果需要一次调出两个或两个以上的变换属性，同时按()和所需变换属性的快捷键即可",
+			"option": ["Shift键", "Alt键", "Ctrl键", "Ctrl + Shift键"],
+			"result": "Shift键"
+		},
+		{
+			"title": "可以在下列哪个窗口中通过调整参数精确控制合成中的对象？",
+			"option": ["合成窗口", "信息窗口", "时间线窗口", "项目窗口"],
+			"result": "时间线窗口"
+		},
+		{
+			"title": "在AE中运动的三个步骤是什么？",
+			"option": ["激活关键帧", "以上说法都对", "修改相关属性数值", "调整时间线"],
+			"result": "以上说法都对"
+		},
+		{
+			"title": "AE层的属性史快捷键错误的是？",
+			"option": ["Opacity(透明度): 0", "Effects(特效滤镜): E", "Anchor Point(轴心点): A", "Position(位置): P"],
+			"result": "Opacity(透明度): 0"
+		}, {
+			"title": "在after effect中，点击层小三角显示出来的转换属性哪个没有？",
+			"option": ["透明度", "位置", "尺寸", "亮度"],
+			"result": "亮度"
+		},
+		{
+			"title": "让文字跟随指定的路径应该使用下列哪个特效？",
+			"option": ["Stroke", "Basic", "Path Text", "Write"],
+			"result": "Path Text"
+		},
+		{
+			"title": "快速查看当前图层蒙版路径的快捷键是？",
+			"option": ["Q键", "M键", "F键", "G键"],
+			"result": "M键"
+		},
+		{
+			"title": "对于广播视频产品，通常都使用：",
+			"option": [
+				"44.100KHz采样率和8位的位深度",
+				"48.000KHz采样率和16位的位深度",
+				"48.000KHz采样率和8位的位深度",
+				"44.100KHz采样率和16位的位深度"
+			],
+			"result": "44.100KHz采样率和16位的位深度"
+		},
+		{
+			"title": "产生彩色投影必须调整下面哪个参数？",
+			"option": [
+				"投射阴影层的LightTransmission设为80%",
+				"Light的LightTransmission设为0%",
+				"Light的LightTransmission设为100%",
+				"接受阴影层的LightTransmission设为100%"
+			],
+			"result": "投射阴影层的LightTransmission设为80%"
+		},
+		{
+			"title": "After Effects中同时能有几个工程(Project)处于开启状态？",
+			"option": [
+				"只要有足够的空间，不限定项目开启的数目",
+				"只有2个",
+				"可以自己设定",
+				"只能有1个"
+			],
+			"result": "只能有1个"
+		},
+		{
+			"title": "在After effect中，缩短渲染时间及文件大小的方法是？",
+			"option": ["修剪图层", "以上说法都对", "使用Media Encoder渲染", "首选项开启多重处理"],
+			"result": "以上说法都对"
+		},
+		{
+			"title": "AE软件对合成进行预览，使用小键盘的哪个键？",
+			"option": ["3", "1", "0", "2"],
+			"result": "0"
+		},
+		{
+			"title": "在项目窗口中，可以显示的素材属性最多有？",
+			"option": ["8项", "6项", "5项", "3项"],
+			"result": "8项"
+		},
+		{
+			"title": "After Effects能够根据图层的变换属性动画产生真实的运动模糊效果，下列哪种方法能够产生此效果？",
+			"option": [
+				"应用运动模糊特效",
+				"单机“运动模糊”按钮",
+				"应用方向模糊特效",
+				"应用回声特效"
+			],
+			"result": "单机“运动模糊”按钮"
+		},
+		{
+			"title": "可以带有Alpha通道的色彩深度是？",
+			"option": ["24bit色彩深度", "32bit色彩深度", "16bit色彩深度", "8bit色彩深度"],
+			"result": "32bit色彩深度"
+		},
+		{
+			"title": "按( 键生成影片，会自动打开渲染序列窗口？",
+			"option": ["Ctrl+Y", "Ctrl+Z", "Ctrl+M", "Ctrl+K"],
+			"result": "Ctrl+M"
+		},
+		{
+			"title": "如果要连续向After Effects中导入多个素材，应该选择下列哪个命令?",
+			"option": [
+				"Project窗口中双击",
+				"导入/多个文件",
+				"导入/文件",
+				"导入/文件夹"
+			],
+			"result": "导入/多个文件"
+		},
+		{
+			"title": "() 属性发生变化，会影响图层缩放和旋转的中心点",
+			"option": ["位置", "锚点", "旋转", "缩放"],
+			"result": "锚点"
+		},
+		{
+			"title": "在为遮罩形状记录动画时，删除的控制点仅影响当前时间遮罩，其他时间遮罩控制点数目不变。要满足上面的条件，应该进行下列哪种操作?",
+			"option": [
+				"打开Lock Mask",
+				"激活Preserve Constant Vertex Count when Editing Masks",
+				"关闭Preserve Constant Vertex Count when Editing Masks",
+				"开Free Transform Points"
+			],
+			"result": "关闭Preserve Constant Vertex Count when Editing Masks"
+		},
+		{
+			"title": "After Effects中最多可以恢复的步数是？",
+			"option": ["10", "49", "99", "无限制"],
+			"result": "99"
+		},
+		{
+			"title": "After Effects不可以和下列哪个软件无缝结合?",
+			"option": ["Cinema 4D", "Premiere", "Photoshop","Lllustrator"],
+			"result": "Cinema 4D"
+		},
+		{
+			"title": "在After Effect中，哪些类型的关键顿具备空间插值和时间插值两种属性？",
+			"option": [
+				"空间层属性关键帧只具备空间插值属性，时间层属性关键帧只具备时间插值属性",
+				"时间层属性关键帧",
+				"空间层属性关键帧",
+				"任何类型的关键帧都具备空间插值和时间插值两种属性"
+			],
+			"result": "任何类型的关键帧都具备空间插值和时间插值两种属性"
+		}, {
+			"title": "使用圆角矩形工具创建蒙版时，按 ()键可以使圆角变为最大",
+			"option": ["↓", "←", "↑", "→"],
+			"result": "→"
+		},
+		{
+			"title": "下列哪种方法可以对层上的关键帧进行反转？",
+			"option": [
+				"按快捷键Ctrl+Alt+R",
+				"改变层的出点",
+				"改变层的入点",
+				"Time-Reverse Keyframes"
+			],
+			"result": "Time-Reverse Keyframes"
+		},
+		{
+			"title": "选择时间线上的所有图层的快捷键是什么？",
+			"option": ["Ctrl+Alt", "Shift+A", "Ctrl+Alt+D", "Ctrl+A"],
+			"result": "Ctrl+A"
+		},
+		{
+			"title": "在after effect中，将当前对象的锚点居中到场景是哪个快捷键？",
+			"option": ["Alt", "Ctrl+Alt+Home", "Ctrl+Alt+F", "Ctrl+Home"],
+			"result": "Ctrl+Home"
+		},
+		{
+			"title": "导入素材有几种方法?",
+			"option": ["2", "1", "3", "4"],
+			"result": "3"
+		},
+		{
+			"title": "After Effects 属于下列哪种工作方式的合成软件?",
+			"option": [
+				"使用流程图节点进行工作",
+				"综合上面所有的工作方式",
+				"使用轨道进行工作",
+				"面向层进行工作"
+			],
+			"result": "面向层进行工作"
+		}
+	],
+	"多选": [{
+			"title": "在After Effects中如何将一段影片倒放的方法包括以下哪几种？",
+			"type": true,
+			"option": ["Time Difference", "TimeStretch", "Time Remapping", "Time-Reverse Keyframes"],
+			"result": "BCD"
+		},
+		{
+			"title": "Timeline面板可以进行以下哪些操作？",
+			"type": true,
+			"option": ["设定位置动画", "设定Effects动画", "排列素材的顺序以及图层的上下顺序", "施加Effects特技效果"],
+			"result": "ABC"
+		},
+		{
+			"title": "在绘图软件中存储一张图片，以下哪种颜色模式存储可用于After Effects 6.0 的视频？",
+			"type": true,
+			"option": ["Gray模式", "LAB模式", "CMYK模式", "RGB模式"],
+			"result": "AD"
+		},
+		{
+			"title": "如何在After Effects中开始创建自己的电影？",
+			"type": true,
+			"option": ["执行File/New/Project命令和Composition/New/Composition命令",
+				"通过File/Import命令将数字化的音频视频素材文件导入Project窗口中，并用鼠标将素材拖入Composition面板中进行编辑", "执行File/Save命令，保存为一项工程",
+				"执行File/Open命令"
+			],
+			"result": "ABC"
+		},
+		{
+			"title": "要限定Text的动画影响范围，必须设置下列哪个参数？",
+			"type": true,
+			"option": ["Start", "Smoothness", "End", "Offset"],
+			"result": "ACD"
+		},
+		{
+			"title": "After Effects中的摄像机支持下列哪些效果？",
+			"type": true,
+			"option": ["摄像机动画效果", "镜头聚焦效果", "同一场景中架设多架摄像", "控制RPF摄像机"],
+			"result": "ABCD"
+		},
+		{
+			"title": "下列说法中关于After Effects渲染不正确的是？",
+			"type": true,
+			"option": ["无论After Effects怎样设置，渲染效果都不会出问题", "渲染之前不用保存工程", "外部插件不可能导致After Effects渲染崩溃",
+				"默认情况下，没有安装插件的After Effects渲染可选用"
+			],
+			"result": "ABCD"
+		},
+		{
+			"title": "After Effects的主要特点包括以下哪些？",
+			"type": true,
+			"option": ["多层剪辑、快速渲染和导出", "强大的特技控制、高效的渲染效果", "无与伦比的准确性", "高效的关键帧编辑"],
+			"result": "ABCD"
+		},
+		{
+			"title": "下列哪个滤镜可以将影片中选择的颜色保持，将其他颜色转换为灰度显示？",
+			"type": true,
+			"option": ["Hue/Saturation", "Change Color","Leave Color", "Color Balance"],
+			"result": "ABC"
+		},
+		{
+			"title": "AE工作流程有为",
+			"type": true,
+			"option": ["素材导入", "合成创建", "效果制作、视频输出", "新建项目"],
+			"result": "ABCD"
+		},
+		{
+			"title": "形状图层有哪些属性组？",
+			"type": true,
+			"option": ["填充", "矩形路径", "描边", "变换"],
+			"result": "ABCD"
+		},
+		{
+			"title": "After Effects每个关键帧上都记录着哪两种信息？",
+			"type": true,
+			"option": ["素材的播放信息", "属性参数的设定信息", "时间信息", "素材类型信息"],
+			"result": "BC"
+		},
+		{
+			"title": "After Effects可以将哪些文件导入成为构图？",
+			"type": true,
+			"option": ["Freehand", "llustrator", "Photoshop", "Premiere"],
+			"result": "BCD"
+		},
+		{
+			"title": "使用何种方法可为导入的素材指定准确的蒙版方式？",
+			"type": true,
+			"option": ["执行File/Import/Photoshop As Comp...命令", "执行File/Interpret Footage命令",
+				"执行File/Import/Footage命令", "把素材从桌面文件夹中直接拖至Project窗口中"
+			],
+			"result": "BC"
+		},
+		{
+			"title": "蒙版的基本属性有哪些？",
+			"type": true,
+			"option": ["蒙版扩展", "蒙版路径", "蒙版羽化", "蒙版不透明度"],
+			"result": "ABCD"
+		},
+		{
+			"title": "下列哪些3D Channel信息可以被After Effects识别？",
+			"type": true,
+			"option": ["三维场景中的Object ID信息", "三维场景中的元素反射信息", "三维场景的灯光照明信息", "三维场景的摄像机信息"],
+			"result": "ACD"
+		},
+		{
+			"title": "关于Adobe After Effects CS5输出序列帧的说法正确的是？",
+			"type": true,
+			"option": ["输出图片的总数将由“秒数乘以所设置的每秒输出的帧数”来决定", "系统将以连续图片的形式记录当前制作的动画",
+				"输出序列顿，必须要在'Format'(格式)下拉列表中选择'sequence'(序列)格式文件", "After Effects CS5支持Cineon Sequence序列图片格式"
+			],
+			"result": "ABCD"
+		},
+		{
+			"title": "下列哪些方法可以屏蔽当前工作状态下层的特效？",
+			"type": true,
+			"option": ["按Caps Lock", "取消层的f开关", "取消合成图像的f开关", "在Render Settings对话框中选择EffectAIl Off"],
+			"result": "ABC"
+		},
+		{
+			"title": "After Effects可以导入下列哪些类型的文件格式？",
+			"type": true,
+			"option": ["JPGB", "AI", "MAX", "TGA"],
+			"result": "ABD"
+		},
+		{
+			"title": "关于视频制式的使用，下列描述哪些是正确的？",
+			"type": true,
+			"option": ["日本采用PAL制式", "美国、加拿大采用NTSC制式", "中国采用PAL制式", "欧洲采用NTSC制式"],
+			"result": "BC"
+		}
+	],
+	"判断": [{
+			"title": "图层的五大变换属性分别是缩放、错点、不透明度、位置和旋转",
+			"result": "1"
+		},
+		{
+			"title": "选择时间线上的所有图层的快捷键是Ctrl+A",
+			"result": "1"
+		},
+		{
+			"title": "遮罩实际是一个路径或者轮廓图，用于修改图层的Alpha通道",
+			"result": "1"
+		},
+		{
+			"title": "在图层面板可观察素材的基本信息",
+			"result": "0"
+		},
+		{
+			"title": "合成是对多个素材进行处理，将其合并为一个视频文件",
+			"result": "1"
+		},
+		{
+			"title": "“粒子”特效的属性Emitter能设置粒子的形状",
+			"result": "0"
+		},
+		{
+			"title": "AE的色彩信息包含在3个通道中，即红(R)、绿(G)、蓝(B)",
+			"result": "1"
+		},
+		{
+			"title": "制作文字时，可以在层上制作基本文字或路径文字，但不能直接创建文字图层",
+			"result": "0"
+		},
+		{
+			"title": "使用素材建立合成，合成的大小与素材的大小一致",
+			"result": "1"
+		},
+		{
+			"title": "After Effects软件中1个项目文件只能建成一个合成",
+			"result": "0"
+		},
+		{
+			"title": "只能在固态层上绘制遮罩，其他层上都不能设置遮置",
+			"result": "0"
+		},
+		{
+			"title": "要显示同一图层的两个蒙版间的重叠区域，应将下方的蒙板的计算模式设置为相加",
+			"result": "0"
+		},
+		{
+			"title": "只能在固态层上绘制遮罩，其他层上都不能设置遮罩",
+			"result": "0"
+		},
+		{
+			"title": "AE中可以导入*.PSD文件或*.PNG文件",
+			"result": "1"
+		},
+		{
+			"title": "图层特效能复制，关键帧也可进行复制",
+			"result": "1"
+		},
+		{
+			"title": "AE是一款高端的图形视频处理软件",
+			"result": "1"
+		},
+		{
+			"title": "图层的五大变换属性有错点、位置、缩放、旋转、不透明度",
+			"result": "1"
+		},
+		{
+			"title": "所谓帧速率是在播放时每秒钟播放多少帧",
+			"result": "1"
+		},
+		{
+			"title": "预合成的快捷键是Shift+Ctrl+C",
+			"result": "1"
+		},
+		{
+			"title": "在时间线窗口中，将入点设置到时间线指针所在处的快捷键是Alt+[",
+			"result": "1"
+		}
+	]
+}
